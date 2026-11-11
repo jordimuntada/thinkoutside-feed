@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Raleway, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1080" height="1350" fill="#EFE6DA"/>
+
+  <g transform="translate(60,80)">
+    <text x="0" y="0" font-size="22" font-weight="700" fill="#54453A" letter-spacing="2">THINK OUTSIDE</text>
+    <rect x="0" y="14" width="44" height="3" fill="#D4A373"/>
+  </g>
+
+  <g transform="translate(540,260)" text-anchor="middle">
+    <text font-size="22" font-weight="600" fill="#D4A373" letter-spacing="6">NUESTRAS MADERAS</text>
+  </g>
+
+  <g transform="translate(60,380)">
+    <text font-size="56" font-weight="700" fill="#54453A">Las maderas que</text>
+    <text y="68" font-size="56" font-weight="700" fill="#54453A">más trabajamos.</text>
+  </g>
+
+  <g transform="translate(60,560)">
+    <g transform="translate(0,0)">
+      <rect x="0" y="0" width="460" height="180" rx="8" fill="#FAF8F3"/>
+      <rect x="0" y="0" width="140" height="180" rx="8" fill="#C8A57A"/>
+      <rect x="135" y="0" width="10" height="180" fill="#C8A57A"/>
+      <text x="170" y="50" font-size="32" font-weight="700" fill="#54453A">Roble</text>
+      <text x="170" y="86" font-size="16" font-weight="500" fill="#36332F">Duro, estable. El clásico</text>
+      <text x="170" y="108" font-size="16" font-weight="500" fill="#36332F">para parquet y mueble.</text>
+      <text x="170" y="156" font-size="12" font-weight="700" fill="#D4A373" letter-spacing="2">PARQUET · MUEBLE</text>
+    </g>
+    <g transform="translate(500,0)">
+      <rect x="0" y="0" width="460" height="180" rx="8" fill="#FAF8F3"/>
+      <rect x="0" y="0" width="140" height="180" rx="8" fill="#5C4033"/>
+      <rect x="135" y="0" width="10" height="180" fill="#5C4033"/>
+      <text x="170" y="50" font-size="32" font-weight="700" fill="#54453A">Nogal</text>
+      <text x="170" y="86" font-size="16" font-weight="500" fill="#36332F">Tono oscuro, veta marcada,</text>
+      <text x="170" y="108" font-size="16" font-weight="500" fill="#36332F">muy noble al tacto.</text>
+      <text x="170" y="156" font-size="12" font-weight="700" fill="#D4A373" letter-spacing="2">MUEBLE · CARPINTERÍA</text>
+    </g>
+    <g transform="translate(0,210)">
+      <rect x="0" y="0" width="460" height="180" rx="8" fill="#FAF8F3"/>
+      <rect x="0" y="0" width="140" height="180" rx="8" fill="#A07550"/>
+      <rect x="135" y="0" width="10" height="180" fill="#A07550"/>
+      <text x="170" y="50" font-size="32" font-weight="700" fill="#54453A">Castaño</text>
+      <text x="170" y="86" font-size="16" font-weight="500" fill="#36332F">Resistente a la humedad.</text>
+      <text x="170" y="108" font-size="16" font-weight="500" fill="#36332F">Ideal para exterior.</text>
+      <text x="170" y="156" font-size="12" font-weight="700" fill="#D4A373" letter-spacing="2">EXTERIOR · VALLAS</text>
+    </g>
+    <g transform="translate(500,210)">
+      <rect x="0" y="0" width="460" height="180" rx="8" fill="#FAF8F3"/>
+      <rect x="0" y="0" width="140" height="180" rx="8" fill="#8B4513"/>
+      <rect x="135" y="0" width="10" height="180" fill="#8B4513"/>
+      <text x="170" y="50" font-size="32" font-weight="700" fill="#54453A">Cerezo</text>
+      <text x="170" y="86" font-size="16" font-weight="500" fill="#36332F">Cálido, veta fina.</text>
+      <text x="170" y="108" font-size="16" font-weight="500" fill="#36332F">Envejece con carácter.</text>
+      <text x="170" y="156" font-size="12" font-weight="700" fill="#D4A373" letter-spacing="2">MUEBLE · DECORACIÓN</text>
+    </g>
+    <g transform="translate(0,420)">
+      <rect x="0" y="0" width="460" height="180" rx="8" fill="#FAF8F3"/>
+      <rect x="0" y="0" width="140" height="180" rx="8" fill="#D9B783"/>
+      <rect x="135" y="0" width="10" height="180" fill="#D9B783"/>
+      <text x="170" y="50" font-size="32" font-weight="700" fill="#54453A">Haya</text>
+      <text x="170" y="86" font-size="16" font-weight="500" fill="#36332F">Tono claro y duro.</text>
+      <text x="170" y="108" font-size="16" font-weight="500" fill="#36332F">Se trabaja muy limpia.</text>
+      <text x="170" y="156" font-size="12" font-weight="700" fill="#D4A373" letter-spacing="2">MUEBLE · ESCALERAS</text>
+    </g>
+    <g transform="translate(500,420)">
+      <rect x="0" y="0" width="460" height="180" rx="8" fill="#FAF8F3"/>
+      <rect x="0" y="0" width="140" height="180" rx="8" fill="#E0C28A"/>
+      <rect x="135" y="0" width="10" height="180" fill="#E0C28A"/>
+      <text x="170" y="50" font-size="32" font-weight="700" fill="#54453A">Pino</text>
+      <text x="170" y="86" font-size="16" font-weight="500" fill="#36332F">Económico y versátil.</text>
+      <text x="170" y="108" font-size="16" font-weight="500" fill="#36332F">Sus nudos tienen personalidad.</text>
+      <text x="170" y="156" font-size="12" font-weight="700" fill="#D4A373" letter-spacing="2">REVESTIMIENTO · OBRA</text>
+    </g>
+  </g>
+
+  <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
+    <text>EXPERTOS EN INSTALACIONES Y MANTENIMIENTO DE CARPINTERÍA DE MADERA</text>
+  </g>
+</svg>

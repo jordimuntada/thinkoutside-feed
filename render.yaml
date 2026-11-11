@@ -1,0 +1,23 @@
+# Blueprint de Render per a la web de simulació del feed.
+#
+# Render detecta aquest fitxer quan connectes el repositori i crea el servei
+# automàticament. Publica la carpeta `site/` tal qual (no cal build).
+#
+# Docs: https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: thinkoutside-instagram-feed
+    runtime: static
+    staticPublishPath: ./site
+    autoDeploy: true
+    headers:
+      - path: /assets/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin

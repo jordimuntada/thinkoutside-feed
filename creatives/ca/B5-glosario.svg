@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Raleway, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1080" height="1350" fill="#54453A"/>
+
+  <g transform="translate(60,80)">
+    <text x="0" y="0" font-size="22" font-weight="700" fill="#FAF8F3" letter-spacing="2">THINK OUTSIDE</text>
+    <rect x="0" y="14" width="44" height="3" fill="#D4A373"/>
+  </g>
+
+  <g transform="translate(540,260)" text-anchor="middle">
+    <text font-size="22" font-weight="600" fill="#D4A373" letter-spacing="6">GLOSSARI DEL TALLER</text>
+  </g>
+
+  <g transform="translate(60,380)">
+    <text font-size="52" font-weight="700" fill="#FAF8F3">6 paraules que</text>
+    <text y="64" font-size="52" font-weight="700" fill="#FAF8F3">fem servir cada dia.</text>
+  </g>
+
+  <g transform="translate(60,560)">
+    <g transform="translate(0,0)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Esquadria</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Les dimensions exactes (gruix × amplada)</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">d'un tauló o llistó.</text>
+    </g>
+    <g transform="translate(0,110)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Encadellat</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Unió de taules amb ranura i llengüeta.</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">Encaixen sense claus ni cargols.</text>
+    </g>
+    <g transform="translate(0,220)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Vernís</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Capa protectora que segella la fusta.</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">Acabat mat, setinat o brillant.</text>
+    </g>
+    <g transform="translate(0,330)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Oli d'acabat</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Acabat que nodreix la fusta sense segellar-la.</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">Té un tacte natural i es pot reparar per zones.</text>
+    </g>
+    <g transform="translate(0,440)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Veta</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Dibuix natural de les fibres de la fusta.</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">Cada peça és única.</text>
+    </g>
+    <g transform="translate(0,550)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Tapajunts</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Motllura estreta que cobreix la junta entre el terra</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">i la paret o entre taulers.</text>
+    </g>
+  </g>
+
+  <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#DED3C4" letter-spacing="3">
+    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTERIA</text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Raleway, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1080" height="1350" fill="#EFE6DA"/>
+
+  <g transform="translate(60,80)">
+    <text x="0" y="0" font-size="22" font-weight="700" fill="#54453A" letter-spacing="2">THINK OUTSIDE</text>
+    <rect x="0" y="14" width="44" height="3" fill="#D4A373"/>
+  </g>
+
+  <g transform="translate(540,260)" text-anchor="middle">
+    <circle cx="0" cy="0" r="76" fill="#D4A373"/>
+    <g transform="translate(0,0)" stroke="#FFFFFF" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="-18" cy="-10" r="14"/>
+      <circle cx="18" cy="-10" r="14"/>
+      <path d="M-44 32 Q0 12 44 32"/>
+    </g>
+  </g>
+
+  <g transform="translate(540,460)" text-anchor="middle">
+    <text font-size="22" font-weight="600" fill="#D4A373" letter-spacing="6">BUSQUEM FUSTERS</text>
+  </g>
+
+  <g transform="translate(60,580)">
+    <text font-size="76" font-weight="700" fill="#54453A">Cerquem</text>
+    <text y="92" font-size="76" font-weight="700" fill="#54453A">fusters</text>
+    <text y="184" font-size="76" font-weight="700" fill="#54453A">amb ofici.</text>
+  </g>
+
+  <g transform="translate(60,830)" text-anchor="middle">
+    <text x="480" y="0" font-size="20" font-weight="500" fill="#54453A">Explica'ns què saps fer. En 2 minuts.</text>
+  </g>
+
+  <g transform="translate(60,880)">
+    <a href="https://typeform.com/to/thinkoutside-unete" target="_blank">
+      <rect x="0" y="0" width="960" height="100" rx="6" fill="#D4A373"/>
+      <text x="480" y="64" text-anchor="middle" font-size="28" font-weight="700" fill="#FFFFFF">Inscriu-t'hi →</text>
+    </a>
+  </g>
+
+  <g transform="translate(60,1030)" text-anchor="middle">
+    <text x="480" y="0" font-size="18" font-weight="500" fill="#54453A" letter-spacing="2">PREFEREIXES EL CORREU?</text>
+  </g>
+
+  <g transform="translate(60,1060)" text-anchor="middle">
+    <text x="480" y="0" font-size="22" font-weight="700" fill="#36332F">uneixte@thinkoutside.es</text>
+  </g>
+
+  <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
+    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTERIA</text>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Raleway, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1080" height="1350" fill="#FAF8F3"/>
+
+  <g transform="translate(60,80)">
+    <text x="0" y="0" font-size="22" font-weight="700" fill="#54453A" letter-spacing="2">THINK OUTSIDE</text>
+    <rect x="0" y="14" width="44" height="3" fill="#D4A373"/>
+  </g>
+
+  <g transform="translate(540,460)" text-anchor="middle">
+    <text font-size="24" font-weight="500" fill="#D4A373" letter-spacing="6">NOSTRA HISTÒRIA</text>
+  </g>
+
+  <g transform="translate(540,800)" text-anchor="middle">
+    <text font-size="380" font-weight="700" fill="#54453A" letter-spacing="-10">+9</text>
+  </g>
+
+  <g transform="translate(540,935)" text-anchor="middle">
+    <text font-size="48" font-weight="600" fill="#36332F">anys donant forma</text>
+    <text y="64" font-size="48" font-weight="600" fill="#36332F">a la fusta</text>
+  </g>
+
+  <g transform="translate(60,1080)" font-size="18" font-weight="500" fill="#54453A" letter-spacing="4">
+    <text>RESIDENCIAL  ·  HOTELS  ·  COMERÇ  ·  INDÚSTRIA</text>
+  </g>
+
+  <g transform="translate(60,1180)">
+    <line x1="30" y1="0" x2="900" y2="0" stroke="#DED3C4" stroke-width="2"/>
+    <g font-size="18" font-weight="500" fill="#54453A">
+      <circle cx="30" cy="0" r="6" fill="#D4A373"/>
+      <text x="30" y="40" text-anchor="middle">2017</text>
+      <circle cx="204" cy="0" r="6" fill="#D4A373"/>
+      <text x="204" y="40" text-anchor="middle">2019</text>
+      <circle cx="378" cy="0" r="6" fill="#D4A373"/>
+      <text x="378" y="40" text-anchor="middle">2021</text>
+      <circle cx="552" cy="0" r="6" fill="#D4A373"/>
+      <text x="552" y="40" text-anchor="middle">2023</text>
+      <circle cx="726" cy="0" r="6" fill="#D4A373"/>
+      <text x="726" y="40" text-anchor="middle">2025</text>
+      <circle cx="900" cy="0" r="8" fill="#54453A"/>
+      <text x="900" y="40" text-anchor="middle" font-weight="700">2026</text>
+    </g>
+  </g>
+
+  <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
+    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTERIA</text>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Raleway, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1080" height="1350" fill="#EFE6DA"/>
+
+  <g transform="translate(60,80)">
+    <text x="0" y="0" font-size="22" font-weight="700" fill="#54453A" letter-spacing="2">THINK OUTSIDE</text>
+    <rect x="0" y="14" width="44" height="3" fill="#D4A373"/>
+  </g>
+
+  <g transform="translate(540,260)" text-anchor="middle">
+    <text font-size="22" font-weight="600" fill="#D4A373" letter-spacing="6">DESMONTANDO MITOS</text>
+  </g>
+
+  <g transform="translate(60,380)">
+    <text font-size="60" font-weight="700" fill="#54453A">Madera: mito</text>
+    <text y="72" font-size="60" font-weight="700" fill="#54453A">vs. realidad.</text>
+  </g>
+
+  <g transform="translate(60,560)">
+    <g transform="translate(0,0)">
+      <rect x="0" y="0" width="460" height="170" rx="8" fill="#FAF8F3"/>
+      <text x="20" y="36" font-size="14" font-weight="700" fill="#D4A373" letter-spacing="3">MITO</text>
+      <text x="20" y="86" font-size="22" font-weight="600" fill="#54453A">«La madera y el</text>
+      <text x="20" y="116" font-size="22" font-weight="600" fill="#54453A">agua no se llevan.»</text>
+      <rect x="500" y="0" width="460" height="170" rx="8" fill="#54453A"/>
+      <text x="520" y="36" font-size="14" font-weight="700" fill="#D4A373" letter-spacing="3">REALIDAD</text>
+      <text x="520" y="86" font-size="20" font-weight="600" fill="#FAF8F3">Con tratamiento hidrófugo</text>
+      <text x="520" y="116" font-size="20" font-weight="600" fill="#FAF8F3">y mantenimiento, aguanta</text>
+      <text x="520" y="146" font-size="20" font-weight="600" fill="#FAF8F3">décadas.</text>
+    </g>
+    <g transform="translate(0,200)">
+      <rect x="0" y="0" width="460" height="170" rx="8" fill="#FAF8F3"/>
+      <text x="20" y="36" font-size="14" font-weight="700" fill="#D4A373" letter-spacing="3">MITO</text>
+      <text x="20" y="86" font-size="22" font-weight="600" fill="#54453A">«El parquet es cosa</text>
+      <text x="20" y="116" font-size="22" font-weight="600" fill="#54453A">de casas antiguas.»</text>
+      <rect x="500" y="0" width="460" height="170" rx="8" fill="#54453A"/>
+      <text x="520" y="36" font-size="14" font-weight="700" fill="#D4A373" letter-spacing="3">REALIDAD</text>
+      <text x="520" y="86" font-size="20" font-weight="600" fill="#FAF8F3">Es uno de los suelos más</text>
+      <text x="520" y="116" font-size="20" font-weight="600" fill="#FAF8F3">actuales en obra nueva</text>
+      <text x="520" y="146" font-size="20" font-weight="600" fill="#FAF8F3">y rehabilitación.</text>
+    </g>
+    <g transform="translate(0,400)">
+      <rect x="0" y="0" width="460" height="170" rx="8" fill="#FAF8F3"/>
+      <text x="20" y="36" font-size="14" font-weight="700" fill="#D4A373" letter-spacing="3">MITO</text>
+      <text x="20" y="86" font-size="22" font-weight="600" fill="#54453A">«Cuanta más capa</text>
+      <text x="20" y="116" font-size="22" font-weight="600" fill="#54453A">de barniz, mejor.»</text>
+      <rect x="500" y="0" width="460" height="170" rx="8" fill="#54453A"/>
+      <text x="520" y="36" font-size="14" font-weight="700" fill="#D4A373" letter-spacing="3">REALIDAD</text>
+      <text x="520" y="86" font-size="20" font-weight="600" fill="#FAF8F3">Demasiado barniz ahoga</text>
+      <text x="520" y="116" font-size="20" font-weight="600" fill="#FAF8F3">la madera y la acaba</text>
+      <text x="520" y="146" font-size="20" font-weight="600" fill="#FAF8F3">cuarteando.</text>
+    </g>
+  </g>
+
+  <g transform="translate(60,1180)" text-anchor="middle">
+    <rect x="0" y="0" width="960" height="64" rx="32" fill="#D4A373"/>
+    <text x="480" y="42" font-size="18" font-weight="700" fill="#FFFFFF" letter-spacing="2">¿CUÁL DE ESTOS MITOS TE HAN CONTADO? ↓</text>
+  </g>
+
+  <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
+    <text>EXPERTOS EN INSTALACIONES Y MANTENIMIENTO DE CARPINTERÍA DE MADERA</text>
+  </g>
+</svg>

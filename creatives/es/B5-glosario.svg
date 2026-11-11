@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Raleway, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1080" height="1350" fill="#54453A"/>
+
+  <g transform="translate(60,80)">
+    <text x="0" y="0" font-size="22" font-weight="700" fill="#FAF8F3" letter-spacing="2">THINK OUTSIDE</text>
+    <rect x="0" y="14" width="44" height="3" fill="#D4A373"/>
+  </g>
+
+  <g transform="translate(540,260)" text-anchor="middle">
+    <text font-size="22" font-weight="600" fill="#D4A373" letter-spacing="6">GLOSARIO DEL TALLER</text>
+  </g>
+
+  <g transform="translate(60,380)">
+    <text font-size="52" font-weight="700" fill="#FAF8F3">6 palabras que</text>
+    <text y="64" font-size="52" font-weight="700" fill="#FAF8F3">usamos a diario.</text>
+  </g>
+
+  <g transform="translate(60,560)">
+    <g transform="translate(0,0)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Escuadría</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Las dimensiones exactas (grosor × anchura)</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">de un tablón o listón.</text>
+    </g>
+    <g transform="translate(0,110)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Machihembrado</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Unión de tablas con ranura y lengüeta.</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">Encajan sin clavos ni tornillos.</text>
+    </g>
+    <g transform="translate(0,220)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Barniz</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Capa protectora que sella la madera.</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">Brillo mate, satinado o brillo.</text>
+    </g>
+    <g transform="translate(0,330)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Acedur / Aceite</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Acabado que nutre la madera sin sellarla.</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">Tacto natural, se repara por zonas.</text>
+    </g>
+    <g transform="translate(0,440)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Veta</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Dibujo natural de la fibra de la madera.</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">Cada pieza es única.</text>
+    </g>
+    <g transform="translate(0,550)">
+      <text font-size="26" font-weight="700" fill="#D4A373">Junquillo</text>
+      <text y="32" font-size="18" font-weight="400" fill="#FAF8F3">Listón fino que remata la unión entre suelo</text>
+      <text y="56" font-size="18" font-weight="400" fill="#FAF8F3">y pared, o entre tableros.</text>
+    </g>
+  </g>
+
+  <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#DED3C4" letter-spacing="3">
+    <text>EXPERTOS EN INSTALACIONES Y MANTENIMIENTO DE CARPINTERÍA DE MADERA</text>
+  </g>
+</svg>

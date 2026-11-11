@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Raleway, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1080" height="1350" fill="#FAF8F3"/>
+
+  <g transform="translate(60,80)">
+    
+    <rect x="0" y="14" width="44" height="3" fill="#D4A373"/>
+  </g>
+
+  <g transform="translate(540,260)" text-anchor="middle">
+    
+  </g>
+
+  <g transform="translate(60,380)">
+    
+    
+  </g>
+
+  <g transform="translate(60,560)">
+    <g transform="translate(0,0)">
+      <rect x="0" y="0" width="960" height="84" rx="8" fill="#EFE6DA"/>
+      <circle cx="50" cy="42" r="22" fill="#54453A"/>
+      
+      
+    </g>
+    <g transform="translate(0,104)">
+      <rect x="0" y="0" width="960" height="84" rx="8" fill="#EFE6DA"/>
+      <circle cx="50" cy="42" r="22" fill="#54453A"/>
+      
+      
+    </g>
+    <g transform="translate(0,208)">
+      <rect x="0" y="0" width="960" height="84" rx="8" fill="#EFE6DA"/>
+      <circle cx="50" cy="42" r="22" fill="#54453A"/>
+      
+      
+    </g>
+    <g transform="translate(0,312)">
+      <rect x="0" y="0" width="960" height="84" rx="8" fill="#EFE6DA"/>
+      <circle cx="50" cy="42" r="22" fill="#54453A"/>
+      
+      
+    </g>
+    <g transform="translate(0,416)">
+      <rect x="0" y="0" width="960" height="84" rx="8" fill="#EFE6DA"/>
+      <circle cx="50" cy="42" r="22" fill="#54453A"/>
+      
+      
+    </g>
+  </g>
+
+  <g transform="translate(60,1100)" text-anchor="middle">
+    <rect x="0" y="0" width="960" height="76" rx="38" fill="#D4A373"/>
+    
+  </g>
+
+  <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
+    
+  </g>
+</svg>

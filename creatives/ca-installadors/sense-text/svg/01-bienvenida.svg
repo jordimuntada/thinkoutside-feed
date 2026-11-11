@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Raleway, ui-sans-serif, system-ui, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FAF8F3"/>
+      <stop offset="100%" stop-color="#EFE6DA"/>
+    </linearGradient>
+    <pattern id="wood" patternUnits="userSpaceOnUse" width="1080" height="60" patternTransform="rotate(-2)">
+      <rect width="1080" height="60" fill="#54453A" opacity="0.04"/>
+      <path d="M0 30 Q 270 18 540 30 T 1080 30" stroke="#54453A" stroke-width="1" fill="none" opacity="0.08"/>
+      <path d="M0 50 Q 270 38 540 50 T 1080 50" stroke="#54453A" stroke-width="1" fill="none" opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="1350" fill="url(#wood)"/>
+
+  <g transform="translate(60,80)">
+    
+    <rect x="0" y="14" width="44" height="3" fill="#D4A373"/>
+  </g>
+
+  <g transform="translate(540,560)" text-anchor="middle">
+    
+    
+    
+    
+    
+    
+  </g>
+
+  <g transform="translate(540,1130)">
+    <rect x="-150" y="-32" width="300" height="64" rx="32" fill="#D4A373"/>
+    
+  </g>
+
+  <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
+    
+  </g>
+</svg>

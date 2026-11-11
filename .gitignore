@@ -1,0 +1,19 @@
+# Fitxers locals que no han de pujar-se al repositori
+
+.crush/
+tmp/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Fonts variables descarregades pel tooling (es regeneren soles)
+tools/_fonts/
+
+# Fotografies d'origen (pesades). Les peces 07 i 08 ja les porten incrustades.
+PDVIG/
+fotos-outside/
+
+# Entregables Illustrator: es regeneren amb `python tools\export_ai.py`
+ai/
+**/ai/

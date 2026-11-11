@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Think Outside · Feed d'Instagram (simulació)</title>
+<meta name="description" content="Simulació del feed d'Instagram de Think Outside amb les creativitats en català.">
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2354453A'/%3E%3Ctext x='32' y='42' font-family='Raleway,Arial' font-size='26' font-weight='700' fill='%23FAF8F3' text-anchor='middle'%3ETO%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<a class="skip" href="#graella">Salta a la graella</a>
+
+<main class="shell">
+
+  <header class="perfil">
+    <div class="perfil__top">
+      <div class="avatar" aria-hidden="true">
+        <span>TO</span>
+      </div>
+      <div class="perfil__info">
+        <div class="perfil__fila">
+          <h1 class="usuari">thinkoutside.es</h1>
+          <button class="boto boto--primari" type="button" data-avis="Simulació: aquest botó no fa res.">Segueix</button>
+          <button class="boto" type="button" data-avis="Simulació: aquest botó no fa res.">Missatge</button>
+        </div>
+        <ul class="stats">
+          <li><strong id="num-posts">0</strong> publicacions</li>
+          <li><strong>1.284</strong> seguidors</li>
+          <li><strong>512</strong> seguits</li>
+        </ul>
+        <div class="bio">
+          <p class="bio__nom">Think Outside · Fusteria</p>
+          <p>Fusteria a Terrassa 📍 9 anys d'experiència.</p>
+          <p>Instal·lacions · Reparacions · Manteniment.</p>
+          <p>Instal·ladors i muntadors propis.</p>
+          <p class="bio__enllac">thinkoutside.es</p>
+        </div>
+      </div>
+    </div>
+
+    <ul class="destacats" aria-label="Destacats">
+      <li><span class="destacat__cercle">Sobre<br>nosaltres</span><span class="destacat__et">Sobre nosaltres</span></li>
+      <li><span class="destacat__cercle">Serveis</span><span class="destacat__et">Serveis</span></li>
+      <li><span class="destacat__cercle">Projectes</span><span class="destacat__et">Projectes</span></li>
+      <li><span class="destacat__cercle">Consells</span><span class="destacat__et">Consells</span></li>
+      <li><span class="destacat__cercle">Equip</span><span class="destacat__et">Equip</span></li>
+      <li><span class="destacat__cercle">Contacte</span><span class="destacat__et">Contacte</span></li>
+    </ul>
+  </header>
+
+  <nav class="pestanyes" aria-label="Seccions del perfil">
+    <button class="pestanya is-activa" type="button" aria-current="page">PUBLICACIONS</button>
+    <button class="pestanya" type="button" disabled>REELS</button>
+    <button class="pestanya" type="button" disabled>ETIQUETADES</button>
+  </nav>
+
+  <section id="graella" class="graella" aria-label="Publicacions"></section>
+
+  <footer class="peu">
+    <p>Simulació del feed · Think Outside · Outside Instalaciones y Técnicos S.L.</p>
+    <p class="peu__petit">Maquetació de mostra. Les imatges són creativitats en català del projecte.</p>
+  </footer>
+
+</main>
+
+<div class="avis" id="avis" role="status" aria-live="polite"></div>
+
+<div class="visor" id="visor" hidden>
+  <button class="visor__tancar" type="button" aria-label="Tanca">&times;</button>
+  <button class="visor__nav visor__nav--previ" type="button" aria-label="Anterior">&#8249;</button>
+  <button class="visor__nav visor__nav--seguent" type="button" aria-label="Següent">&#8250;</button>
+  <div class="visor__cos" role="dialog" aria-modal="true" aria-label="Publicació">
+    <div class="visor__imatge">
+      <img id="visor-img" src="" alt="">
+    </div>
+    <div class="visor__panell">
+      <header class="visor__cap">
+        <span class="avatar avatar--petit" aria-hidden="true"><span>TO</span></span>
+        <span class="visor__usuari">thinkoutside.es</span>
+      </header>
+      <div class="visor__text">
+        <p class="visor__caption" id="visor-caption"></p>
+        <p class="visor__etiquetes" id="visor-etiquetes"></p>
+      </div>
+      <div class="visor__accions" aria-hidden="true">
+        <span>♡</span><span>💬</span><span>↗</span>
+        <span class="visor__marca" id="visor-marca"></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Raleway, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1080" height="1350" fill="#FAF8F3"/>
+
+  <g transform="translate(60,80)">
+    <text x="0" y="0" font-size="22" font-weight="700" fill="#54453A" letter-spacing="2">THINK OUTSIDE</text>
+    <rect x="0" y="14" width="44" height="3" fill="#D4A373"/>
+  </g>
+
+  <g transform="translate(540,215)" text-anchor="middle">
+    <text font-size="22" font-weight="600" fill="#D4A373" letter-spacing="6">ESTAMOS CONTRATANDO</text>
+  </g>
+
+  <g transform="translate(60,310)">
+    <text font-size="68" font-weight="700" fill="#54453A">Gente que sabe</text>
+    <text y="80" font-size="68" font-weight="700" fill="#54453A">hacer las cosas bien</text>
+  </g>
+
+  <g transform="translate(60,460)">
+    <text font-size="24" font-weight="400" fill="#36332F">Eficientes, con oficio y sin excusas.</text>
+  </g>
+
+  <g transform="translate(60,540)">
+    <rect x="0" y="0" width="300" height="215" rx="8" fill="#FFFFFF" stroke="#DED3C4" stroke-width="1"/>
+    <rect x="28" y="30" width="36" height="4" fill="#D4A373"/>
+    <text x="28" y="88" font-size="23" font-weight="700" fill="#54453A" letter-spacing="1">EFICIENCIA</text>
+    <text x="28" y="128" font-size="17" font-weight="400" fill="#36332F">Rinden desde el primer</text>
+    <text x="28" y="154" font-size="17" font-weight="400" fill="#36332F">día, sin repetir tareas</text>
+    <text x="28" y="180" font-size="17" font-weight="400" fill="#36332F">ni perder el tiempo.</text>
+  </g>
+
+  <g transform="translate(390,540)">
+    <rect x="0" y="0" width="300" height="215" rx="8" fill="#FFFFFF" stroke="#DED3C4" stroke-width="1"/>
+    <rect x="28" y="30" width="36" height="4" fill="#D4A373"/>
+    <text x="28" y="88" font-size="23" font-weight="700" fill="#54453A" letter-spacing="1">TALENTO</text>
+    <text x="28" y="128" font-size="17" font-weight="400" fill="#36332F">Manos de oficio y</text>
+    <text x="28" y="154" font-size="17" font-weight="400" fill="#36332F">cabeza de profesional.</text>
+    <text x="28" y="180" font-size="17" font-weight="400" fill="#36332F">Resuelven, no estorban.</text>
+  </g>
+
+  <g transform="translate(720,540)">
+    <rect x="0" y="0" width="300" height="215" rx="8" fill="#FFFFFF" stroke="#DED3C4" stroke-width="1"/>
+    <rect x="28" y="30" width="36" height="4" fill="#D4A373"/>
+    <text x="28" y="88" font-size="23" font-weight="700" fill="#54453A" letter-spacing="1">CALIDAD</text>
+    <text x="28" y="128" font-size="17" font-weight="400" fill="#36332F">El detalle se nota en</text>
+    <text x="28" y="154" font-size="17" font-weight="400" fill="#36332F">cada corte y cada</text>
+    <text x="28" y="180" font-size="17" font-weight="400" fill="#36332F">instalación. Siempre.</text>
+  </g>
+
+  <g transform="translate(60,825)">
+    <a href="https://typeform.com/to/thinkoutside-unete" target="_blank">
+      <rect x="0" y="0" width="960" height="100" rx="6" fill="#D4A373"/>
+      <text x="480" y="64" text-anchor="middle" font-size="28" font-weight="700" fill="#FFFFFF">Aplica al puesto →</text>
+    </a>
+  </g>
+
+  <g transform="translate(540,995)" text-anchor="middle">
+    <text font-size="18" font-weight="500" fill="#54453A" letter-spacing="2">¿PREFIERES EMAIL?</text>
+  </g>
+
+  <g transform="translate(540,1037)" text-anchor="middle">
+    <text font-size="24" font-weight="700" fill="#36332F">unete@thinkoutside.es</text>
+  </g>
+
+  <g transform="translate(540,1097)" text-anchor="middle">
+    <text font-size="18" font-weight="400" fill="#54453A">630 377 574 · Terrassa (Barcelona)</text>
+  </g>
+
+  <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
+    <text>EXPERTOS EN INSTALACIONES Y MANTENIMIENTO DE CARPINTERÍA DE MADERA</text>
+  </g>
+</svg>

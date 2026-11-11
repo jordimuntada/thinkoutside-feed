@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350" font-family="Raleway, ui-sans-serif, system-ui, sans-serif">
+  <rect width="1080" height="1350" fill="#FAF8F3"/>
+
+  <g transform="translate(60,80)">
+    <text x="0" y="0" font-size="22" font-weight="700" fill="#54453A" letter-spacing="2">THINK OUTSIDE</text>
+    <rect x="0" y="14" width="44" height="3" fill="#D4A373"/>
+  </g>
+
+  <g transform="translate(540,300)" text-anchor="middle">
+    <text font-size="22" font-weight="600" fill="#D4A373" letter-spacing="6">SABÍAS QUE...</text>
+  </g>
+
+  <g transform="translate(540,640)" text-anchor="middle">
+    <text font-size="320" font-weight="700" fill="#54453A" letter-spacing="-10">5×</text>
+  </g>
+
+  <g transform="translate(60,910)" text-anchor="middle">
+    <text x="480" y="0" font-size="32" font-weight="700" fill="#36332F">Una puerta de madera maciza</text>
+    <text x="480" y="44" font-size="32" font-weight="700" fill="#36332F">aísla 5 veces más que una hueca.</text>
+  </g>
+
+  <g transform="translate(60,1040)" text-anchor="middle">
+    <text x="480" y="0" font-size="18" font-weight="500" fill="#36332F">También aísla mejor del ruido y aguanta</text>
+    <text x="480" y="32" font-size="18" font-weight="500" fill="#36332F">décadas sin deformarse.</text>
+  </g>
+
+  <g transform="translate(60,1140)" text-anchor="middle">
+    <rect x="280" y="0" width="400" height="60" rx="30" fill="none" stroke="#54453A" stroke-width="2"/>
+    <text x="480" y="40" text-anchor="middle" font-size="18" font-weight="700" fill="#54453A" letter-spacing="2">¿OTRA CURIOSIDAD? → DM</text>
+  </g>
+
+  <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
+    <text>EXPERTOS EN INSTALACIONES Y MANTENIMIENTO DE CARPINTERÍA DE MADERA</text>
+  </g>
+</svg>
