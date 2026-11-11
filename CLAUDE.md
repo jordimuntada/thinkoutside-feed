@@ -66,8 +66,8 @@ posts-thinkoutside\
 ```
 
 **21 piezas por idioma** (12 del Batch A + 6 del Batch B + 3 de captación C1-C3). Las únicas
-bloqueada por falta de fotos es la **09** (tiene placeholders
-`[ FOTO ... ]`).
+bloqueadas por falta de foto: **ninguna**. Las `07`, `08` y `09` ya llevan las
+fotos incrustadas en el SVG.
 
 ## Comandos
 

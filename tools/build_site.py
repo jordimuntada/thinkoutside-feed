@@ -182,22 +182,22 @@ fusteria a mida? Enllaç a la bio.""",
     },
     {
         "fitxer": "09-antes-despues.png",
-        "titol": "Abans / després",
-        "alt": "Comparativa abans i després d'una reforma de porta de fusta a Sabadell.",
+        "titol": "El procés: muntatge",
+        "alt": "Muntatge d'una cuina a mida: a l'esquerra, vista general amb els mobles col·locats; a la dreta, detall de l'interior dels armaris alts.",
         "magrada": 431,
         "comentaris": 33,
-        "pendent": True,
-        "caption": """Així ens va arribar → així la vam deixar.
+        "caption": """De la caixa a la cuina. 🪵
 
-La humitat havia inflat la porta i desencaixat
-el marc. Vam substituir la fulla, ajustar el marc
-i aplicar-hi vernís mat.
+Així avança un muntatge: primer l'estructura i
+els fronts, després l'encimera, la placa i
+l'aigüera. Cada peça va col·locada a esquadra i
+anivellada abans de tancar.
 
-Un dia de feina. Sense una gran obra ni sorpreses.
+La primera foto és la planta general; la segona,
+un detall de l'interior dels armaris alts.
 
-Tens un problema semblant a casa o al teu negoci?
-Escriu-nos i t'ho valorarem en menys de 48 hores.""",
-        "hashtags": "#AbansIDesprés #Reforma #Fusteria #Transformació #ThinkOutside",
+📩 Tens un projecte? Enllaç a la bio.""",
+        "hashtags": "#ProjecteReal #CuinaAMida #Muntatge #ReformaIntegral #Terrassa #ThinkOutside",
     },
     {
         "fitxer": "10-unete-equipo.png",

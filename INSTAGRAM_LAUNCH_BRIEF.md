@@ -2,7 +2,7 @@
 
 Brief creativo para los **primeros 12 posts** del feed de Instagram. Pensado para una empresa que ya opera desde hace **más de 9 años**, por lo que el contenido se posiciona desde el inicio con autoridad y recorrido (no desde cero).
 
-> **Ubicación de los archivos:** todas las piezas están en `creatives/es/` (y su versión catalana en `creatives/ca/`). Los PNG exportados, en el subcarpeta `png\` de cada idioma. Solo la **09** sigue pendiente de foto real; las **07** y **08** ya llevan sus fotos incrustadas.
+> **Ubicación de los archivos:** todas las piezas están en `creatives/es/` (y su versión catalana en `creatives/ca/`). Los PNG exportados, en el subcarpeta `png\` de cada idioma. Todas las piezas llevan ya su foto real incrustada (07, 08 y 09).
 
 ---
 
@@ -315,32 +315,34 @@ carpintería a medida? Link en bio.
 
 ---
 
-### Pieza 9 — Antes / Después
+### Pieza 9 — Proyecto: proceso de montaje
 
-**Archivo:** `creatives/09-antes-despues.svg`
-**Objetivo:** máximo engagement. Las transformaciones siempre funcionan.
+**Archivo:** `creatives/es/09-antes-despues.svg`
+**Objetivo:** enseñar el proceso, no solo el resultado. Ya lleva las dos fotos incrustadas.
 
 **Copy en la pieza**
-- Eyebrow: "ANTES / DESPUÉS"
-- Columna izq: "ANTES — puerta hinchada por humedad, marco desencajado, pintura saltada"
-- Columna der: "DESPUÉS — puerta nueva, marco ajustado, barniz mate"
-- Pie: "1 día de trabajo · Reforma en Sabadell"
+- Eyebrow: "EL PROCESO"
+- H1: "De la caja a la cocina."
+- Sub: "Montaje de una cocina a medida, paso a paso."
+- Etiquetas sobre las fotos: "MONTAJE" · "DETALLE"
+- Pills: "Cocina a medida" · "Terrassa, Barcelona" · CTA "¿Tienes un proyecto? Escríbenos →"
 
 **Caption**
 ```
-Cómo nos llegó → cómo se fue.
+De la caja a la cocina. 🪵
 
-La humedad había hinchado la puerta y desencajado
-el marco. Cambiamos hoja, ajustamos marco y
-damos barniz mate al conjunto.
+Así avanza un montaje: primero la estructura y
+los frentes, después la encimera, la placa y el
+fregadero. Cada pieza va colocada a escuadra y
+nivelada antes de cerrar.
 
-Un día. Sin obra mayor. Sin sorpresas.
+La primera foto es la planta general; la segunda,
+un detalle del interior de los armarios altos.
 
-¿Algo parecido en casa o en tu negocio?
-DM y te lo valoramos en menos de 48 h.
+📩 ¿Tienes un proyecto? Link en bio.
 
-#AntesYDespués #ReformaExpress #Carpinteria
-#Transformación #ThinkOutside
+#ProyectoReal #CocinaAMedida #Montaje
+#ReformaIntegral #Terrassa #ThinkOutside
 ```
 
 ---

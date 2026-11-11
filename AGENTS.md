@@ -86,8 +86,7 @@ Si el destinatario no tiene Raleway instalada, entrega `ai/outlined/` o
 - El email comercial (`comercial@oitinstalaciones.com`) es para clientes
   (presupuestos, proyectos), **no** para candidatos.
 - Mantén el salto de línea de las captions a ~30–40 caracteres.
-- La pieza `09` tiene placeholders `[ FOTO ... ]`: no es publicable hasta
-  sustituirlos por fotos reales. Las `07` y `08` ya llevan foto.
+- Las piezas `07`, `08` y `09` llevan ya su foto real incrustada en el SVG.
 
 ## Reglas de la casa
 

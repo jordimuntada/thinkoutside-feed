@@ -66,13 +66,12 @@ posts-thinkoutside\
 
 | Carpeta | Contenido | ¿Publicable ya? |
 |---|---|---|
-| `creatives/es/` y `creatives/ca/` | 21 piezas por idioma: 12 del Batch A + 6 del Batch B + 3 de captación | **Sí**, salvo la **09**, que sigue con placeholder `[ FOTO ... ]` y necesita fotos reales |
-| `creatives/ca-installadors/` | Duplicado del set catalán (21 piezas) con el rol **instal·ladors i muntadors** en vez de fusters | **Sí**, con el mismo aviso de la pieza 09 y del Typeform |
+| `creatives/es/` y `creatives/ca/` | 21 piezas por idioma: 12 del Batch A + 6 del Batch B + 3 de captación | **Sí** — todas llevan ya su foto real incrustada |
+| `creatives/ca-installadors/` | Duplicado del set catalán (21 piezas) con el rol **instal·ladors i muntadors** en vez de fusters | **Sí** — mismo contenido, solo cambia el rol |
 | `creatives/ca-installadors/sense-text/` | Las mismas 21 piezas **sin ningún texto**: solo fondos, tarjetas, botones y formas | **Plantilla** — pensada para maquetar texto propio encima |
 
-> La pieza **09** (antes/después) es la única bloqueada por falta de foto. Mientras
-> tanto, sustitúyela el mismo día por una educational (B1, B3, B5) — ver
-> `POSTS_CONTENT_PLAN.md` §2. Las **07** y **08** ya llevan foto real.
+> Ninguna pieza queda bloqueada: **07**, **08** y **09** ya llevan sus fotos reales
+> incrustadas en el SVG.
 
 ### Publicar
 
@@ -186,10 +185,12 @@ lanzamiento. Opciones: `--from`, `--to`, `--reply-to`, `--dry`.
 - **Previsualización rápida**: doble clic sobre cualquier `.svg` para abrirlo en el navegador.
 - **Edición**: Inkscape, Figma, Illustrator o Affinity Designer importan el SVG directamente.
 
-## Reemplazar placeholders (pieza 09)
+## Cambiar una foto ya incrustada
 
-Sustituye los rectángulos `[ FOTO DE PROJECTE ]` / `[ FOTO ABANS ]` /
-`[ FOTO DESPRÉS ]` por fotos reales con el mismo aspect ratio (1:1) antes de publicar, y vuelve a exportarlas.
+Las piezas **07**, **08** y **09** llevan sus fotos en base64 dentro del SVG. Para
+cambiarlas, regenera la pieza con el script correspondiente o sustituye el
+`href="data:image/jpeg;base64,..."` del `<image>` por la nueva imagen y vuelve a
+exportar PNG y `ai/`.
 
 ## Orden de publicación recomendado
 

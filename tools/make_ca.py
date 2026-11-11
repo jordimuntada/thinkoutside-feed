@@ -101,9 +101,14 @@ T = {
     "Luz LED integrada": "Llum LED integrada",
 
     # --- 09 antes/despues ---
-    "ANTES / DESPUÉS": "ABANS / DESPRÉS",
+    "EL PROCESO": "EL PROCÉS",
     "Reforma de puerta": "Reforma de porta",
-    "Vivienda en Sabadell": "Habitatge a Sabadell",
+    "De la caja": "De la caixa",
+    "a la cocina.": "a la cuina.",
+    "Montaje de una cocina a medida, paso a paso.": "Muntatge d'una cuina a mida, pas a pas.",
+    "MONTAJE": "MUNTATGE",
+    "DETALLE": "DETALL",
+    "¿Tienes un proyecto? Escríbenos →": "Tens un projecte? Escriu-nos →",
     "[ FOTO ANTES ]": "[ FOTO D'ABANS ]",
     "[ FOTO DESPUÉS ]": "[ FOTO DE DESPRÉS ]",
     "DESPUÉS": "DESPRÉS",

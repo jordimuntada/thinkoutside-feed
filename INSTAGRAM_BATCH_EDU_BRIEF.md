@@ -6,7 +6,7 @@ Batch independiente del lanzamiento. **6 piezas sin foto**: tipografías, iconos
 
 Pensado para:
 
-- Rellenar huecos cuando aún no se tienen fotos de proyectos (Batch A pieza 09).
+- Rellenar huecos entre los posts con foto del Batch A (07, 08, 09).
 - Demostrar conocimiento técnico yAuthority (autoridad) sin tener que enseñar obra.
 - Engagement bajo: cada pieza invita a comentar (mito vs realidad), guardar (glosario, maderas) o escribir DM.
 
@@ -48,7 +48,7 @@ Resultado: una vez aprobado el diseño, **exportar a PNG es suficiente para publ
 | S2 | Viernes | `B5-glosario.svg` | Autoridad técnica · guardable |
 | S2 | Sábado | `B6-sabias-que.svg` | Engagement + branding |
 
-> Publicar entre los posts del Batch A según hueco disponible. Si se publica una pieza del Batch A que requiere foto (09) y aún no hay foto, sustituir por una de este batch el mismo día.
+> Publicar entre los posts del Batch A según hueco disponible. Las piezas con foto del Batch A ya están completas, así que este batch sirve sobre todo para mantener la cadencia.
 
 ---
 

@@ -74,8 +74,8 @@ pregunta antes de aplicar el cambio.
   Los textos nuevos en español necesitan su entrada en el diccionario `T` de
   `tools\make_ca.py` antes de regenerar el catalán.
 - No renumerar ficheros (`01-`, `B1-`, `C1-`, …): los briefs y el plan los referencian.
-- No publiques la pieza `09` sin sustituir el placeholder `[ FOTO ... ]`.
-  Las `07` y `08` ya tienen foto real incrustada.
+- Las piezas `07`, `08` y `09` llevan foto real incrustada: si se sustituye, hay
+  que reexportar PNG y `ai/`.
 - No borres `tools\_fonts\` ni `fonts\` — son las fuentes embebidas que
   garantizan que el PNG y el PDF se vean igual en cualquier máquina.
 

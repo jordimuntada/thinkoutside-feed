@@ -180,7 +180,7 @@ El PNG de cada pieza está en `<idioma>/png/` con el mismo nombre.
 | Mié | 6 ene | Proyecto corporativo | CA | Prueba social * | `creatives/ca/08-proyecto-corporativo.svg` |
 | Dom | 10 ene | Antes / Después | CA | Prueba social * | `creatives/ca/09-antes-despues.svg` |
 
-### Si la pieza 09 no tiene foto todavía
+### (Sin piezas pendientes de foto)
 
 Sustitúyelas por estas alternativas **en la misma fecha**:
 
@@ -615,53 +615,53 @@ fusteria a mida? Enllaç a la bio.
 **Alt text:** «Vinotecas a medida en un restaurante: dos armarios expositores con puertas de vidrio, estantes de cristal y luz LED integrada. A la izquierda, durante el montaje; a la derecha, el resultado acabado.»
 **Nota:** se mantiene «Terrassa» de la pieza original. Confirma la localidad real del proyecto antes de publicar.
 
-### 09 · Antes / Después
+### 09 · Proyecto: proceso de montaje
 
 **ES** `creatives/es/09-antes-despues.svg` → `creatives/es/png/09-antes-despues.png`
 **CA** `creatives/ca/09-antes-despues.svg` → `creatives/ca/png/09-antes-despues.png`
 
-**Objetivo:** máximo engagement. **Requiere 2 fotos** (1:1, 260 × 200 dentro del recuadro).
-**Copy en la peça:** «ABANS / DESPRÉS» · «Reforma d'una porta» · «Habitatge a Sabadell» · etiquetes «⏱ 1 dia de feina» · «📍 Sabadell, Barcelona» · CTA «T'ha passat una cosa semblant? Escriu-nos →».
+**Objetivo:** enseñar el proceso, no solo el resultado. Transparencia de obra: refuerza confianza.
+**Fotos:** `fotos-outside/PHOTO-2026-10-20-15-21-30 7.jpg` (planta general) y `PHOTO-2026-10-20-15-21-31 2.jpg` (detalle). Recortes 900 × 1200 en `fotos-outside/09-muntatge-1.jpg` y `09-muntatge-2.jpg`, incrustados en el SVG en base64.
+**Copy en la pieza:** «EL PROCESO» / «EL PROCÉS» · «De la caja a la cocina.» / «De la caixa a la cuina.» · «Montaje de una cocina a medida, paso a paso.» · etiquetas superpuestas «Montaje» / «Muntatge» y «Detalle» / «Detall» · «Cocina a medida» · «Terrassa, Barcelona» · CTA «¿Tienes un proyecto? Escríbenos →» / «Tens un projecte? Escriu-nos →».
 
 **Caption ES**
 ```
-Cómo nos llegó → cómo se fue.
+De la caja a la cocina. 🪵
 
-La humedad había hinchado la puerta y desencajado
-el marco. Cambiamos hoja, ajustamos marco y
-damos barniz mate al conjunto.
+Así avanza un montaje: primero la estructura y
+los frentes, después la encimera, la placa y el
+fregadero. Cada pieza va colocada a escuadra y
+nivelada antes de cerrar.
 
-Un día. Sin obra mayor. Sin sorpresas.
+La primera foto es la planta general; la segunda,
+un detalle del interior de los armarios altos.
 
-¿Algo parecido en casa o en tu negocio?
-DM y te lo valoramos en menos de 48 h.
+📩 ¿Tienes un proyecto? Link en bio.
 
-#AntesYDespués #ReformaExpress #Carpinteria
-#Transformación #ThinkOutside
+#ProyectoReal #CocinaAMedida #Montaje
+#ReformaIntegral #Terrassa #ThinkOutside
 ```
 
 **Caption CA**
 ```
-Així ens va arribar → així la vam deixar.
+De la caixa a la cuina. 🪵
 
-La humitat havia inflat la porta i desencaixat
-el marc. Vam substituir la fulla, ajustar el marc
-i hi vam aplicar vernís mat.
+Així avança un muntatge: primer l'estructura i
+els fronts, després l'encimera, la placa i
+l'aigüera. Cada peça va col·locada a esquadra i
+anivellada abans de tancar.
 
-Un dia de feina. Sense una gran obra ni sorpreses.
+La primera foto és la planta general; la segona,
+un detall de l'interior dels armaris alts.
 
-Tens un problema semblant a casa o al teu negoci?
-Escriu-nos i t'ho valorarem en menys de 48 hores.
+📩 Tens un projecte? Enllaç a la bio.
 
-#AbansIDesprés #Reforma #Fusteria
-#Transformació #ThinkOutside
+#ProjecteReal #CuinaAMida #Muntatge
+#ReformaIntegral #Terrassa #ThinkOutside
 ```
 
-**Hashtags:** `#AntesYDespués #ReformaExpress #Carpinteria #Transformación #ThinkOutside`
-**Alt text:** «Comparativa antes y después de una reforma de puerta de madera en Sabadell: la puerta hinchada por humedad frente a la puerta nueva con marco ajustado y barniz mate.»
-**⚠️ Bloqueada:** requiere 2 fotos reales (antes y después).
-
----
+**Hashtags:** `#ProyectoReal #CocinaAMedida #Montaje #ReformaIntegral #Terrassa #ThinkOutside`
+**Alt text:** «Montaje de una cocina a medida: a la izquierda, vista general con los muebles colocados; a la derecha, detalle del interior de los armarios altos.»
 
 ### 10 · Únete al equipo
 
@@ -1375,7 +1375,6 @@ Reglas:
 
 - [ ] PNG de la pieza correcta y del idioma correcto (`creatives/<es|ca>/png/`)
 - [ ] Si es la pieza 10, la URL del Typeform es la real
-- [ ] Si es la pieza 09, la foto real ya está sustituida
 - [ ] Caption en el idioma del post, con saltos de línea a ~30–40 caracteres
 - [ ] 5–8 hashtags, cada uno en su propia línea o separados por espacio
 - [ ] Alt-text pegado (mínimo 80 caracteres)

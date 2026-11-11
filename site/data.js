@@ -81,13 +81,13 @@ window.POSTS = [
   },
   {
     "fitxer": "09-antes-despues.png",
-    "titol": "Abans / després",
-    "alt": "Comparativa abans i després d'una reforma de porta de fusta a Sabadell.",
+    "titol": "El procés: muntatge",
+    "alt": "Muntatge d'una cuina a mida: a l'esquerra, vista general amb els mobles col·locats; a la dreta, detall de l'interior dels armaris alts.",
     "magrada": 431,
     "comentaris": 33,
-    "pendent": true,
-    "caption": "Així ens va arribar → així la vam deixar.\n\nLa humitat havia inflat la porta i desencaixat\nel marc. Vam substituir la fulla, ajustar el marc\ni aplicar-hi vernís mat.\n\nUn dia de feina. Sense una gran obra ni sorpreses.\n\nTens un problema semblant a casa o al teu negoci?\nEscriu-nos i t'ho valorarem en menys de 48 hores.",
-    "hashtags": "#AbansIDesprés #Reforma #Fusteria #Transformació #ThinkOutside"
+    "caption": "De la caixa a la cuina. 🪵\n\nAixí avança un muntatge: primer l'estructura i\nels fronts, després l'encimera, la placa i\nl'aigüera. Cada peça va col·locada a esquadra i\nanivellada abans de tancar.\n\nLa primera foto és la planta general; la segona,\nun detall de l'interior dels armaris alts.\n\n📩 Tens un projecte? Enllaç a la bio.",
+    "hashtags": "#ProjecteReal #CuinaAMida #Muntatge #ReformaIntegral #Terrassa #ThinkOutside",
+    "pendent": false
   },
   {
     "fitxer": "10-unete-equipo.png",
