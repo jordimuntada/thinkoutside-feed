@@ -324,7 +324,7 @@ carpintería a medida? Link en bio.
 - Eyebrow: "EL PROCESO"
 - H1: "De la caja a la cocina."
 - Sub: "Montaje de una cocina a medida, paso a paso."
-- Etiquetas sobre las fotos: "MONTAJE" · "DETALLE"
+- Etiquetas sobre las fotos: "ESTRUCTURA" · "INTERIOR"
 - Pills: "Cocina a medida" · "Terrassa, Barcelona" · CTA "¿Tienes un proyecto? Escríbenos →"
 
 **Caption**
@@ -336,8 +336,8 @@ los frentes, después la encimera, la placa y el
 fregadero. Cada pieza va colocada a escuadra y
 nivelada antes de cerrar.
 
-La primera foto es la planta general; la segunda,
-un detalle del interior de los armarios altos.
+La primera foto muestra la estructura; la segunda,
+el interior de los armarios altos.
 
 📩 ¿Tienes un proyecto? Link en bio.
 

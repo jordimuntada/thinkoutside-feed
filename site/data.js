@@ -82,10 +82,10 @@ window.POSTS = [
   {
     "fitxer": "09-antes-despues.png",
     "titol": "El procés: muntatge",
-    "alt": "Muntatge d'una cuina a mida: a l'esquerra, vista general amb els mobles col·locats; a la dreta, detall de l'interior dels armaris alts.",
+    "alt": "Muntatge d'una cuina a mida: a l'esquerra, l'estructura amb els mobles col·locats; a la dreta, l'interior dels armaris alts.",
     "magrada": 431,
     "comentaris": 33,
-    "caption": "De la caixa a la cuina. 🪵\n\nAixí avança un muntatge: primer l'estructura i\nels fronts, després l'encimera, la placa i\nl'aigüera. Cada peça va col·locada a esquadra i\nanivellada abans de tancar.\n\nLa primera foto és la planta general; la segona,\nun detall de l'interior dels armaris alts.\n\n📩 Tens un projecte? Enllaç a la bio.",
+    "caption": "De la caixa a la cuina. 🪵\n\nAixí avança un muntatge: primer l'estructura i\nels fronts, després l'encimera, la placa i\nl'aigüera. Cada peça va col·locada a esquadra i\nanivellada abans de tancar.\n\nLa primera foto mostra l'estructura; la segona,\nl'interior dels armaris alts.\n\n📩 Tens un projecte? Enllaç a la bio.",
     "hashtags": "#ProjecteReal #CuinaAMida #Muntatge #ReformaIntegral #Terrassa #ThinkOutside",
     "pendent": false
   },

@@ -622,7 +622,7 @@ fusteria a mida? Enllaç a la bio.
 
 **Objetivo:** enseñar el proceso, no solo el resultado. Transparencia de obra: refuerza confianza.
 **Fotos:** `fotos-outside/PHOTO-2026-10-20-15-21-30 7.jpg` (planta general) y `PHOTO-2026-10-20-15-21-31 2.jpg` (detalle). Recortes 900 × 1200 en `fotos-outside/09-muntatge-1.jpg` y `09-muntatge-2.jpg`, incrustados en el SVG en base64.
-**Copy en la pieza:** «EL PROCESO» / «EL PROCÉS» · «De la caja a la cocina.» / «De la caixa a la cuina.» · «Montaje de una cocina a medida, paso a paso.» · etiquetas superpuestas «Montaje» / «Muntatge» y «Detalle» / «Detall» · «Cocina a medida» · «Terrassa, Barcelona» · CTA «¿Tienes un proyecto? Escríbenos →» / «Tens un projecte? Escriu-nos →».
+**Copy en la pieza:** «EL PROCESO» / «EL PROCÉS» · «De la caja a la cocina.» / «De la caixa a la cuina.» · «Montaje de una cocina a medida, paso a paso.» · etiquetas superpuestas «ESTRUCTURA» e «INTERIOR» · «Cocina a medida» · «Terrassa, Barcelona» · CTA «¿Tienes un proyecto? Escríbenos →» / «Tens un projecte? Escriu-nos →».
 
 **Caption ES**
 ```
@@ -633,8 +633,8 @@ los frentes, después la encimera, la placa y el
 fregadero. Cada pieza va colocada a escuadra y
 nivelada antes de cerrar.
 
-La primera foto es la planta general; la segunda,
-un detalle del interior de los armarios altos.
+La primera foto muestra la estructura; la segunda,
+el interior de los armarios altos.
 
 📩 ¿Tienes un proyecto? Link en bio.
 
@@ -651,8 +651,8 @@ els fronts, després l'encimera, la placa i
 l'aigüera. Cada peça va col·locada a esquadra i
 anivellada abans de tancar.
 
-La primera foto és la planta general; la segona,
-un detall de l'interior dels armaris alts.
+La primera foto mostra l'estructura; la segona,
+l'interior dels armaris alts.
 
 📩 Tens un projecte? Enllaç a la bio.
 
@@ -661,7 +661,7 @@ un detall de l'interior dels armaris alts.
 ```
 
 **Hashtags:** `#ProyectoReal #CocinaAMedida #Montaje #ReformaIntegral #Terrassa #ThinkOutside`
-**Alt text:** «Montaje de una cocina a medida: a la izquierda, vista general con los muebles colocados; a la derecha, detalle del interior de los armarios altos.»
+**Alt text:** «Montaje de una cocina a medida: a la izquierda, la estructura con los muebles colocados; a la derecha, el interior de los armarios altos.»
 
 ### 10 · Únete al equipo
 

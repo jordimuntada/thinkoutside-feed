@@ -183,7 +183,7 @@ fusteria a mida? Enllaç a la bio.""",
     {
         "fitxer": "09-antes-despues.png",
         "titol": "El procés: muntatge",
-        "alt": "Muntatge d'una cuina a mida: a l'esquerra, vista general amb els mobles col·locats; a la dreta, detall de l'interior dels armaris alts.",
+        "alt": "Muntatge d'una cuina a mida: a l'esquerra, l'estructura amb els mobles col·locats; a la dreta, l'interior dels armaris alts.",
         "magrada": 431,
         "comentaris": 33,
         "caption": """De la caixa a la cuina. 🪵
@@ -193,8 +193,8 @@ els fronts, després l'encimera, la placa i
 l'aigüera. Cada peça va col·locada a esquadra i
 anivellada abans de tancar.
 
-La primera foto és la planta general; la segona,
-un detall de l'interior dels armaris alts.
+La primera foto mostra l'estructura; la segona,
+l'interior dels armaris alts.
 
 📩 Tens un projecte? Enllaç a la bio.""",
         "hashtags": "#ProjecteReal #CuinaAMida #Muntatge #ReformaIntegral #Terrassa #ThinkOutside",
