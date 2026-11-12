@@ -32,7 +32,7 @@ Les altres **16 peces són idèntiques** al set original: no parlaven de fusters
 ### 01 · Bienvenida
 
 ```
-Per fi també som aquí. 👋
+Per fi també som aquí.
 
 Som Think Outside, una empresa de fusteria amb
 9 anys d'experiència. Fem instal·lacions,
@@ -54,16 +54,16 @@ Comencem!
 Estem creixent i busquem instal·ladors i muntadors
 amb ofici i actitud professional.
 
-🔧 Què demanem:
+ Què demanem:
 · Experiència en instal·lació i muntatge de fusteria
 · Ganes de fer bé la feina
 · Carnet de conduir (no és imprescindible, però es valora)
 
-🪵 Què oferim:
+ Què oferim:
 · Estabilitat i un projecte a llarg termini
 · Bon ambient d'equip
 
-👉 Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
+ Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
 https://typeform.com/to/thinkoutside-unete
 
 Si ho prefereixes, escriu-nos a uneixte@thinkoutside.es.
@@ -76,7 +76,7 @@ Si ho prefereixes, escriu-nos a uneixte@thinkoutside.es.
 
 ```
 Busquem persones que facin bé la seva feina
-i que treballin amb criteri. 🔧
+i que treballin amb criteri.
 
 A Think Outside valorem tres coses:
 · Eficiència — fer la feina bé, sense repeticions
@@ -87,7 +87,7 @@ Som una empresa de fusteria fundada el 2017.
 Fem instal·lacions, reparacions i manteniment
 a Terrassa i rodalia.
 
-👉 Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
+ Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
 https://typeform.com/to/thinkoutside-unete
 
 O escriu-nos a uneixte@thinkoutside.es · 630 377 574
@@ -99,18 +99,18 @@ O escriu-nos a uneixte@thinkoutside.es · 630 377 574
 ### C2 · Oficio
 
 ```
-No busquem només mans. Busquem ofici. 🪵
+No busquem només mans. Busquem ofici.
 
 Persones que entenen la feina i l'acaben bé.
 Que deixen l'obra millor de com l'han trobada.
 
-✅ Eficiència — Treballen amb ordre i saben què
+ Eficiència — Treballen amb ordre i saben què
 cal fer, quan i com.
 
-✅ Talent — Aporten criteri quan les coses
+ Talent — Aporten criteri quan les coses
 no van com haurien d'anar.
 
-✅ Qualitat — L'acabat no es negocia.
+ Qualitat — L'acabat no es negocia.
 
 T'hi reconeixes? Omplir el formulari et portarà
 dos minuts:
@@ -125,18 +125,18 @@ uneixte@thinkoutside.es · 630 377 574
 ### C3 · Perfil
 
 ```
-Què busquem en tu? 🪵
+Què busquem en tu?
 
-1️⃣ Ofici — Saps instal·lar i muntar elements
+1. Ofici — Saps instal·lar i muntar elements
 de fusteria.
 
-2️⃣ Eficiència — Treballes amb eficàcia i vas
+2. Eficiència — Treballes amb eficàcia i vas
 més enllà de la teva tasca.
 
-3️⃣ Criteri — Quan alguna cosa no quadra,
+3. Criteri — Quan alguna cosa no quadra,
 ho dius i saps com millorar-la.
 
-4️⃣ Ganes de créixer — T'impliques en les tasques
+4. Ganes de créixer — T'impliques en les tasques
 del taller i de les obres.
 
 T'hi reconeixes? Inscriu-t'hi:

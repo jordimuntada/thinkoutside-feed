@@ -48,6 +48,8 @@ posts-thinkoutside\
 │           ├── svg\
 │           ├── png\
 │           └── ai\
+├── variants\                          versiones archivadas de piezas (para publicar más adelante)
+│   └── 09-proceso-cocina\              la 09 anterior: dos fotos de cocina (ESTRUCTURA / INTERIOR)
 ├── site\                              Web de muestra: simulación del feed (estática)
 ├── render.yaml                        Blueprint de despliegue en Render
 ├── fonts\                             Raleway estática 300/400/500/600/700 (+ OFL.txt)
@@ -184,6 +186,15 @@ lanzamiento. Opciones: `--from`, `--to`, `--reply-to`, `--dry`.
 
 - **Previsualización rápida**: doble clic sobre cualquier `.svg` para abrirlo en el navegador.
 - **Edición**: Inkscape, Figma, Illustrator o Affinity Designer importan el SVG directamente.
+
+## Versiones archivadas (`variants/`)
+
+Piezas que se han sustituido pero se quieren conservar para publicar más adelante.
+No entran en los procesos automáticos (`svg2png`, `make_ca`, `build_site`).
+
+| Carpeta | Contenido |
+|---|---|
+| `variants/09-proceso-cocina/` | La 09 anterior: cocina en montaje + detalle, etiquetas ESTRUCTURA / INTERIOR (ES y CA, SVG y PNG) |
 
 ## Cambiar una foto ya incrustada
 

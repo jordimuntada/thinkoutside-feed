@@ -86,7 +86,7 @@ Hashtags extra por pieza detallados más abajo.
 
 **Caption**
 ```
-Por fin estamos también por aquí. 👋
+Por fin estamos también por aquí.
 
 Somos Think Outside: carpinteros con más de 9 años
 cuidando la madera en proyectos residenciales,
@@ -149,7 +149,7 @@ Gracias a quienes nos habéis confiado vuestro proyecto.
 
 **Caption**
 ```
-Empezamos por lo que más nos piden: 🪵
+Empezamos por lo que más nos piden:
 
 INSTALACIONES.
 Montamos parquet, puertas, armarios, frentes de
@@ -180,7 +180,7 @@ pasamos a ver el espacio sin compromiso.
 **Caption**
 ```
 Lo que se rompe también se arregla — y a veces,
-se arregla mejor que lo nuevo. 🔧
+se arregla mejor que lo nuevo.
 
 REPARACIÓN.
 Atendemos averías de carpintería de madera con
@@ -210,7 +210,7 @@ de intervención clara.
 **Caption**
 ```
 La madera dura décadas si la cuidas. Y ahí
-entramos nosotros. 🛠️
+entramos nosotros.
 
 MANTENIMIENTO.
 Trabajamos con comunidades de propietarios,
@@ -266,7 +266,7 @@ haciendo más de 9 años.
 
 **Caption**
 ```
-Una de las últimas cocinas que hemos terminado. 🪵
+Una de las últimas cocinas que hemos terminado.
 
 Muebles a medida con frentes lacados en blanco
 mate, encimera y frente de piedra clara, y una
@@ -276,7 +276,7 @@ ventana. Placa y fregadero integrados.
 Una cocina pensada para el día a día: limpia,
 luminosa y fácil de mantener.
 
-📩 ¿Hablamos del tuyo? Link en bio.
+¿Hablamos del tuyo? Link en bio.
 
 #ProyectoReal #CocinaAMedida #ReformaIntegral
 #Terrassa #CocinaBlanca #MueblesAMedida
@@ -297,7 +297,7 @@ luminosa y fácil de mantener.
 
 **Caption**
 ```
-Vinotecas a medida para un restaurante. 🍷
+Vinotecas a medida para un restaurante.
 
 Dos armarios expositores con puertas de vidrio,
 estantes de cristal y luz LED integrada. Marcos
@@ -306,7 +306,7 @@ de madera a juego con el resto de la sala.
 La primera foto es durante el montaje; la segunda,
 el resultado con las botellas ya colocadas.
 
-📩 ¿Tienes un local o una oficina que necesita
+¿Tienes un local o una oficina que necesita
 carpintería a medida? Link en bio.
 
 #ProyectoReal #Hostelería #Vinoteca #CarpinteríaAMedida
@@ -318,30 +318,32 @@ carpintería a medida? Link en bio.
 ### Pieza 9 — Proyecto: proceso de montaje
 
 **Archivo:** `creatives/es/09-antes-despues.svg`
-**Objetivo:** enseñar el proceso, no solo el resultado. Ya lleva las dos fotos incrustadas.
+**Objetivo:** enseñar el proceso, no solo el resultado. Lleva dos fotos: habitación con armario encastado y cocina en montaje.
+**Versión anterior:** archivada en `variants/09-proceso-cocina/`.
 
 **Copy en la pieza**
 - Eyebrow: "EL PROCESO"
-- H1: "De la caja a la cocina."
-- Sub: "Montaje de una cocina a medida, paso a paso."
-- Etiquetas sobre las fotos: "ESTRUCTURA" · "INTERIOR"
-- Pills: "Cocina a medida" · "Terrassa, Barcelona" · CTA "¿Tienes un proyecto? Escríbenos →"
+- H1: "De la caja a la obra."
+- Sub: "Armarios encastados y cocina a medida, en plena obra."
+- Etiquetas sobre las fotos: "HABITACIÓN" · "COCINA"
+- Pills: "Carpintería a medida" · "Terrassa, Barcelona" · CTA "¿Tienes un proyecto? Escríbenos →"
 
 **Caption**
 ```
-De la caja a la cocina. 🪵
+De la caja a la obra.
 
-Así avanza un montaje: primero la estructura y
-los frentes, después la encimera, la placa y el
-fregadero. Cada pieza va colocada a escuadra y
-nivelada antes de cerrar.
+Un armario encastado y una cocina a medida, los
+dos todavía en montaje. Así se ve el trabajo
+antes de los acabados.
 
-La primera foto muestra la estructura; la segunda,
-el interior de los armarios altos.
+Armarios de suelo a techo con puertas lisas y
+tiradores de barra. Cocina con frentes lacados
+en blanco mate, a la espera de encimera, placa
+y fregadero.
 
-📩 ¿Tienes un proyecto? Link en bio.
+¿Tienes un proyecto? Link en bio.
 
-#ProyectoReal #CocinaAMedida #Montaje
+#ProyectoReal #ArmariosEncastados #CocinaAMedida
 #ReformaIntegral #Terrassa #ThinkOutside
 ```
 
@@ -364,16 +366,16 @@ el interior de los armarios altos.
 Estamos creciendo y buscamos gente con manos
 de carpintero y cabeza de profesional.
 
-🔧 Lo que pedimos:
+Lo que pedimos:
 · Experiencia en instalación de carpintería de madera
 · Ganas de hacer las cosas bien
 · Carnet de conducir (no imprescindible, suma)
 
-🪵 Lo que ofrecemos:
+Lo que ofrecemos:
 · Estabilidad · Proyecto a largo plazo
 · Buen ambiente de taller
 
-👉 Aplica aquí (2 min, sin PDFs):
+Aplica aquí (2 min, sin PDFs):
 https://typeform.com/to/thinkoutside-unete
 
 Si lo prefieres, escríbenos a unete@thinkoutside.es.
@@ -397,7 +399,7 @@ Si lo prefieres, escríbenos a unete@thinkoutside.es.
 
 **Caption**
 ```
-📩 Pide presupuesto sin compromiso.
+Pide presupuesto sin compromiso.
 
 Cuéntanos qué necesitas (instalación, reparación
 o mantenimiento) y te respondemos en menos de
@@ -431,7 +433,7 @@ Cómo contactar:
 
 **Caption**
 ```
-Guárdanos en tus destacados. 📌
+Guárdanos en tus destacados.
 
 Think Outside · Carpintería de madera
 Terrassa · Barcelona

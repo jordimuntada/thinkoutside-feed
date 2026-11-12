@@ -84,17 +84,17 @@ Reutilizar los del Batch A y añadir dos específicos de contenido educativo:
 **Caption**
 ```
 4 cosas que le sientan mal a tu parquet en invierno
-(y cómo evitarlas). 🪵
+(y cómo evitarlas).
 
-❄️ La calefacción reseca mucho la madera y la hace
+La calefacción reseca mucho la madera y la hace
 contraerse. Si notas juntas abiertas entre tablones,
 el termómetro de tu casa es parte del problema.
 
-🧹 Nada de fregar "en húmedo". Paño bien escurrido.
+Nada de fregar "en húmedo". Paño bien escurrido.
 El agua que queda estancada hincha la madera y
 deja manchas blancas en el barniz.
 
-🛡️ Cada 3–5 años, una mano de mantenimiento alarga
+Cada 3–5 años, una mano de mantenimiento alarga
 décadas la vida del suelo.
 
 ¿Sumamos una quinta? Dinos en comentarios qué haces
@@ -122,20 +122,20 @@ tú para cuidar tu parquet en casa.
 
 **Caption**
 ```
-3 cosas que se dicen de la madera y NO son ciertas. 🪵
+3 cosas que se dicen de la madera y NO son ciertas.
 
-❌ "La madera y el agua no se llevan."
-✅ Con el tratamiento adecuado, dura décadas.
+"La madera y el agua no se llevan."
+Con el tratamiento adecuado, dura décadas.
 
-❌ "El parquet es de casa antigua."
-✅ Es uno de los suelos más actuales en obra nueva
+"El parquet es de casa antigua."
+Es uno de los suelos más actuales en obra nueva
 y rehabilitación.
 
-❌ "Cuanta más capa de barniz, mejor."
-✅ Demasiado barniz la ahoga y la cuartea. Menos
+"Cuanta más capa de barniz, mejor."
+Demasiado barniz la ahoga y la cuartea. Menos
 es más.
 
-¿Cuál te habían contado a ti? Cuéntanoslo abajo 👇
+¿Cuál te habían contado a ti? Cuéntanoslo abajo
 y, si te ha gustado, guárdalo para la próxima vez
 que alguien te lo suelte.
 
@@ -164,7 +164,7 @@ que alguien te lo suelte.
 **Caption**
 ```
 5 señales de que tu puerta de madera pide revisión.
-🔧
+
 
 Si marcas una, no pasa nada: tiene arreglo.
 Si marcas dos o más, llámanos antes de que el
@@ -176,7 +176,7 @@ problema crezca.
 · Barniz cuarteado
 · Cerradura que falla
 
-📩 DM aquí o comercial@oitinstalaciones.com —
+DM aquí o comercial@oitinstalaciones.com —
 diagnóstico sin compromiso.
 
 #ThinkOutside #ReparaciónMadera #PuertasDeMadera
@@ -198,14 +198,14 @@ diagnóstico sin compromiso.
 
 **Caption**
 ```
-Las 6 maderas que más pasan por nuestro taller. 🪵
+Las 6 maderas que más pasan por nuestro taller.
 
-🟫 Roble — duro y estable. El rey del parquet.
-🟫 Nogal — oscuro y noble. Para mueble fino.
-🟫 Castaño — aguanta humedad. Ideal exterior.
-🟫 Cerezo — cálido, veta fina. Envejece bonito.
-🟫 Haya — claro y duro. Para muebles y escaleras.
-🟫 Pino — versátil y con carácter. Para obra.
+Roble — duro y estable. El rey del parquet.
+Nogal — oscuro y noble. Para mueble fino.
+Castaño — aguanta humedad. Ideal exterior.
+Cerezo — cálido, veta fina. Envejece bonito.
+Haya — claro y duro. Para muebles y escaleras.
+Pino — versátil y con carácter. Para obra.
 
 ¿Buscas un proyecto? Dinos qué madera te gusta
 (o cuál tienes en casa) y te contamos qué le haríamos.
@@ -229,26 +229,26 @@ Las 6 maderas que más pasan por nuestro taller. 🪵
 **Caption**
 ```
 6 palabras que oirás en cualquier taller de
-carpintería. 🪵
+carpintería.
 
-📏 Escuadría → las dimensiones (grosor × anchura)
+Escuadría → las dimensiones (grosor × anchura)
 de un tablón.
 
-🔗 Machihembrado → unión de tablas con ranura y
+Machihembrado → unión de tablas con ranura y
 lengüeta. Sin clavos.
 
-🎨 Barniz → capa protectora (mate, satinado o brillo).
+Barniz → capa protectora (mate, satinado o brillo).
 
-🫒 Acedur / aceite → acabado que nutre sin sellar.
+Acedur / aceite → acabado que nutre sin sellar.
 Tacto natural.
 
-🌳 Veta → el dibujo natural de la fibra. Cada pieza
+Veta → el dibujo natural de la fibra. Cada pieza
 es única.
 
-📐 Junquillo → el listón fino que remata la unión
+Junquillo → el listón fino que remata la unión
 suelo-pared.
 
-Guárdalo para tu próxima reforma 👇
+Guárdalo para tu próxima reforma
 
 #ThinkOutside #GlosarioCarpintería #AprendemosEnElTaller
 #Madera #Oficio #Carpinteros
@@ -270,7 +270,7 @@ Guárdalo para tu próxima reforma 👇
 
 **Caption**
 ```
-Sabías que... 🪵
+Sabías que...
 
 Una puerta de madera maciza aísla 5 veces más
 térmica y acústicamente que una puerta hueca

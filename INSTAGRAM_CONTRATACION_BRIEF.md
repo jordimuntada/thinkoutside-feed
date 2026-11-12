@@ -57,21 +57,21 @@ distinto del mismo mensaje.
 ### Caption ES
 
 ```
-Gente que sabe hacer las cosas bien. 🪵
+Gente que sabe hacer las cosas bien.
 
 No buscamos un Currículum Perfecto. Buscamos
 personas con oficio, criterio y ganas.
 
-🔧 EFICIENCIA — Rinden desde el primer día, sin
+EFICIENCIA — Rinden desde el primer día, sin
 repetir tareas ni perder el tiempo.
 
-🧠 TALENTO — Manos de oficio y cabeza de
+TALENTO — Manos de oficio y cabeza de
 profesional. Resuelven, no estorban.
 
-✨ CALIDAD — El detalle se nota en cada corte y
+CALIDAD — El detalle se nota en cada corte y
 cada instalación. Siempre.
 
-👉 Aplica aquí (2 min, sin PDFs):
+Aplica aquí (2 min, sin PDFs):
 https://typeform.com/to/thinkoutside-unete
 
 O escríbenos a unete@thinkoutside.es · 630 377 574
@@ -84,7 +84,7 @@ O escríbenos a unete@thinkoutside.es · 630 377 574
 
 ```
 Busquem persones que facin bé la seva feina
-i que treballin amb criteri. 🔧
+i que treballin amb criteri.
 
 A Think Outside valorem tres coses:
 · Eficiència — fer la feina bé, sense repeticions
@@ -95,7 +95,7 @@ Som una empresa de fusteria fundada el 2017.
 Fem instal·lacions, reparacions i manteniment
 a Terrassa i rodalia.
 
-👉 Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
+Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
 https://typeform.com/to/thinkoutside-unete
 
 O escriu-nos a uneixte@thinkoutside.es · 630 377 574
@@ -132,20 +132,20 @@ O escriu-nos a uneixte@thinkoutside.es · 630 377 574
 ### Caption ES
 
 ```
-No buscamos manos vacías. 🪵
+No buscamos manos vacías.
 
 Buscamos oficio.
 
 Gente que llega, entiende y termina. Y que deja
 la obra como la encontraron, pero mejor.
 
-✅ Eficiencia real — Trabaja con orden: sabe qué
+Eficiencia real — Trabaja con orden: sabe qué
 toca, cuándo y cómo.
 
-✅ Talento aplicado — Aporta criterio cuando la obra
+Talento aplicado — Aporta criterio cuando la obra
 no sale derecha.
 
-✅ Calidad sin bajarse — El acabado es la parte que
+Calidad sin bajarse — El acabado es la parte que
 no se negocia.
 
 Si esto te suena, el formulario tarda 2 minutos:
@@ -161,18 +161,18 @@ unete@thinkoutside.es · 630 377 574
 
 ```
 No busquem només mans.
-Busquem ofici. 🪵
+Busquem ofici.
 
 Persones que saben què cal fer i ho acaben bé.
 Deixen l'obra millor de com l'han trobada.
 
-✅ Eficiència — Treballen amb ordre i saben què
+Eficiència — Treballen amb ordre i saben què
 cal fer, quan i com.
 
-✅ Talent — Aporten criteri quan les coses
+Talent — Aporten criteri quan les coses
 no van com haurien d'anar.
 
-✅ Qualitat — L'acabat no es negocia.
+Qualitat — L'acabat no es negocia.
 
 T'hi reconeixes? Omplir el formulari et portarà
 2 minuts:
@@ -213,18 +213,18 @@ en el feed.
 ### Caption ES
 
 ```
-Qué buscamos en ti. 🪵
+Qué buscamos en ti.
 
-1️⃣ Oficio real — Sabes trabajar la madera y entiendes
+1. Oficio real — Sabes trabajar la madera y entiendes
 cómo se monta.
 
-2️⃣ Eficiencia — Rindes, no ocupas: haces tu parte y
+2. Eficiencia — Rindes, no ocupas: haces tu parte y
 algo más.
 
-3️⃣ Criterio — Cuando algo no cuadra, lo dices y sabes
+3. Criterio — Cuando algo no cuadra, lo dices y sabes
 cómo mejorarlo.
 
-4️⃣ Ganas de crecer — Te apuntas a lo que toque, dentro
+4. Ganas de crecer — Te apuntas a lo que toque, dentro
 y fuera del taller.
 
 Si te reconoces, ponte en contacto. 2 minutos:
@@ -239,18 +239,18 @@ unete@thinkoutside.es · 630 377 574
 ### Caption CA
 
 ```
-Què busquem en tu? 🪵
+Què busquem en tu?
 
-1️⃣ Ofici — Saps treballar la fusta i entens
+1. Ofici — Saps treballar la fusta i entens
 com s'instal·la.
 
-2️⃣ Eficiència — Treballes amb eficàcia i vas
+2. Eficiència — Treballes amb eficàcia i vas
 més enllà de la teva tasca.
 
-3️⃣ Criteri — Quan alguna cosa no quadra,
+3. Criteri — Quan alguna cosa no quadra,
 ho dius i saps com millorar-la.
 
-4️⃣ Ganes de créixer — T'impliques en les tasques
+4. Ganes de créixer — T'impliques en les tasques
 del taller i de les obres.
 
 T'hi reconeixes? Inscriu-t'hi:
