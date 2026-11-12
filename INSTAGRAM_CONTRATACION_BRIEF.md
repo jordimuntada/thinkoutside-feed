@@ -91,7 +91,7 @@ A Think Outside valorem tres coses:
 · Talent — saber trobar solucions
 · Qualitat — tenir cura dels detalls
 
-Som una empresa de fusteria fundada el 2017.
+Som una empresa d'instal·lacions de fusta fundada el 2017.
 Fem instal·lacions, reparacions i manteniment
 a Terrassa i rodalia.
 
@@ -100,7 +100,7 @@ https://typeform.com/to/thinkoutside-unete
 
 O escriu-nos a uneixte@thinkoutside.es · 630 377 574
 
-#BusquemFusters #OfertaDeFeina #Fusteria
+#BusquemInstaladors #OfertaDeFeina #Fusta
 #TreballaAmbNosaltres #Terrassa #ThinkOutside
 ```
 
@@ -180,7 +180,7 @@ https://typeform.com/to/thinkoutside-unete
 
 uneixte@thinkoutside.es · 630 377 574
 
-#ThinkOutside #BusquemFusters #Fusteria
+#ThinkOutside #BusquemInstaladors #Fusta
 #OfertaDeFeina #Ofici
 ```
 
@@ -258,7 +258,7 @@ https://typeform.com/to/thinkoutside-unete
 
 uneixte@thinkoutside.es · 630 377 574
 
-#ThinkOutside #BusquemFusters #Fusteria
+#ThinkOutside #BusquemInstaladors #Fusta
 #OfertaDeFeina #TreballaAmbNosaltres
 ```
 

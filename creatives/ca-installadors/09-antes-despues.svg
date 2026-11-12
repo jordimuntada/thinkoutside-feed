@@ -16,8 +16,8 @@
   </g>
 
   <g transform="translate(60,300)">
-    <text x="0" y="0" font-size="40" font-weight="700" fill="#54453A">De la caixa</text>
-    <text y="46" font-size="40" font-weight="700" fill="#54453A">a l'obra.</text>
+    <text x="0" y="0" font-size="40" font-weight="700" fill="#54453A">Abans de</text>
+    <text y="46" font-size="40" font-weight="700" fill="#54453A">l'acabat.</text>
     <text y="94" font-size="22" font-weight="400" fill="#36332F">Armaris encastats i cuina a mida, en plena obra.</text>
   </g>
 
@@ -45,7 +45,7 @@
 
   <g transform="translate(60,1180)">
     <rect x="0" y="0" width="260" height="56" rx="8" fill="#EFE6DA"/>
-    <text x="130" y="36" text-anchor="middle" font-size="18" font-weight="600" fill="#54453A">Fusteria a mida</text>
+    <text x="130" y="36" text-anchor="middle" font-size="18" font-weight="600" fill="#54453A">Mobles a mida</text>
   </g>
   <g transform="translate(340,1180)">
     <rect x="0" y="0" width="240" height="56" rx="8" fill="#EFE6DA"/>
@@ -57,6 +57,6 @@
   </g>
 
   <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
-    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTERIA</text>
+    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTA</text>
   </g>
 </svg>

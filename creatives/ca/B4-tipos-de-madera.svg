@@ -32,7 +32,7 @@
       <text x="170" y="50" font-size="32" font-weight="700" fill="#54453A">Noguera</text>
       <text x="170" y="86" font-size="16" font-weight="500" fill="#36332F">De to fosc i veta marcada,</text>
       <text x="170" y="108" font-size="16" font-weight="500" fill="#36332F">amb un tacte molt noble.</text>
-      <text x="170" y="156" font-size="12" font-weight="700" fill="#D4A373" letter-spacing="2">MOBLES · FUSTERIA</text>
+      <text x="170" y="156" font-size="12" font-weight="700" fill="#D4A373" letter-spacing="2">MOBLES · INTERIOR</text>
     </g>
     <g transform="translate(0,210)">
       <rect x="0" y="0" width="460" height="180" rx="8" fill="#FAF8F3"/>
@@ -73,6 +73,6 @@
   </g>
 
   <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
-    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTERIA</text>
+    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTA</text>
   </g>
 </svg>

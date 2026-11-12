@@ -27,10 +27,10 @@ CA = ROOT / "creatives" / "ca"
 T = {
     # --- pie de pagina (comun) ---
     "EXPERTOS EN INSTALACIONES Y MANTENIMIENTO DE CARPINTERÍA DE MADERA":
-        "ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTERIA",
+        "ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTA",
     "EXPERTOS EN INSTALACIONES Y MANTENIMIENTO":
         "ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT",
-    "DE CARPINTERÍA DE MADERA": "DE FUSTERIA",
+    "DE CARPINTERÍA DE MADERA": "DE FUSTA",
 
     # --- correu de selecció (ES / CA) ---
     "unete@thinkoutside.es": "uneixte@thinkoutside.es",
@@ -39,7 +39,7 @@ T = {
     "NUEVO EN INSTAGRAM": "NOU A INSTAGRAM",
     "Somos <tspan font-weight=\"700\">Think Outside</tspan> —":
         "Som <tspan font-weight=\"700\">Think Outside</tspan> —",
-    "carpinteros de madera en Terrassa,": "fusters de Terrassa,",
+    "carpinteros de madera en Terrassa,": "instal·ladors i muntadors de Terrassa,",
     "Síguenos →": "Segueix-nos →",
 
     # --- 02 trayectoria ---
@@ -103,12 +103,12 @@ T = {
     # --- 09 antes/despues ---
     "EL PROCESO": "EL PROCÉS",
     "Reforma de puerta": "Reforma de porta",
-    "De la caja": "De la caixa",
-    "a la obra.": "a l'obra.",
+    "Antes del": "Abans de",
+    "acabado.": "l'acabat.",
     "Armarios encastados y cocina a medida, en plena obra.": "Armaris encastats i cuina a mida, en plena obra.",
     "HABITACIÓN": "HABITACIÓ",
     "COCINA": "CUINA",
-    "Carpintería a medida": "Fusteria a mida",
+    "Carpintería a medida": "Mobles a mida",
     "¿Tienes un proyecto? Escríbenos →": "Tens un projecte? Escriu-nos →",
     "[ FOTO ANTES ]": "[ FOTO D'ABANS ]",
     "[ FOTO DESPUÉS ]": "[ FOTO DE DESPRÉS ]",
@@ -202,7 +202,7 @@ T = {
     "Nogal": "Noguera",
     "Tono oscuro, veta marcada,": "De to fosc i veta marcada,",
     "muy noble al tacto.": "amb un tacte molt noble.",
-    "MUEBLE · CARPINTERÍA": "MOBLES · FUSTERIA",
+    "MUEBLE · CARPINTERÍA": "MOBLES · INTERIOR",
     "Castaño": "Castanyer",
     "Resistente a la humedad.": "Resistent a la humitat.",
     "Ideal para exterior.": "Ideal per a exteriors.",

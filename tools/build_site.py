@@ -34,7 +34,7 @@ POSTS = [
         "comentaris": 21,
         "caption": """Per fi també som aquí.
 
-Som Think Outside, una empresa de fusteria amb
+Som Think Outside, una empresa d'instal·lacions de fusta amb
 9 anys d'experiència. Fem instal·lacions,
 reparacions i manteniment, i treballem amb
 instal·ladors i muntadors propis.
@@ -44,7 +44,7 @@ consells pràctics i moments del dia a dia de les obres
 perquè la fusta duri més.
 
 Comencem!""",
-        "hashtags": "#ThinkOutside #Fusteria #Terrassa #Instaladors #NouPerfil",
+        "hashtags": "#ThinkOutside #Fusta #Terrassa #Instaladors #NouPerfil",
     },
     {
         "fitxer": "02-trayectoria.png",
@@ -63,7 +63,7 @@ ofici, atenció al detall i compromís.
 
 Gràcies a totes les persones que ens heu confiat
 els vostres projectes.""",
-        "hashtags": "#9Anys #Trajectòria #ThinkOutside #Fusteria #Professionalitat",
+        "hashtags": "#9Anys #Trajectòria #ThinkOutside #Fusta #Professionalitat",
     },
     {
         "fitxer": "03-servicio-instalaciones.png",
@@ -84,12 +84,12 @@ visitarem l'espai i t'assessorarem sense compromís.
 
 → Enllaç a la bio · missatge directe
 comercial@oitinstalaciones.com""",
-        "hashtags": "#Instalacions #Parquet #ArmarisEncastats #FusteriaAMida #Reformes",
+        "hashtags": "#Instalacions #Parquet #ArmarisEncastats #MoblesAMida #Reformes",
     },
     {
         "fitxer": "04-servicio-reparacion.png",
         "titol": "Servei: reparació",
-        "alt": "Peça del servei de reparació de Think Outside amb cinc avaries habituals de fusteria.",
+        "alt": "Peça del servei de reparació de Think Outside amb cinc avaries habituals de fusta.",
         "magrada": 341,
         "comentaris": 27,
         "caption": """Allò que es trenca també es pot reparar — i, de vegades,
@@ -104,7 +104,7 @@ Valorem l'avaria, preparem un pressupost tancat
 i acordem una data d'intervenció.
 
 Escriu-nos per missatge directe o truca al 630 377 574.""",
-        "hashtags": "#ReparacióDeFusta #Restauració #Fusteria #Reparacions #ThinkOutside",
+        "hashtags": "#ReparacióDeFusta #Restauració #Fusta #Reparacions #ThinkOutside",
     },
     {
         "fitxer": "05-servicio-mantenimiento.png",
@@ -177,16 +177,16 @@ La primera foto és durant el muntatge; la segona,
 el resultat amb les ampolles ja col·locades.
 
 Tens un local o una oficina que necessita
-fusteria a mida? Enllaç a la bio.""",
-        "hashtags": "#ProjecteReal #Hostaleria #Vinoteca #FusteriaAMida #Restaurants #Terrassa #ThinkOutside",
+mobles a mida? Enllaç a la bio.""",
+        "hashtags": "#ProjecteReal #Hostaleria #Vinoteca #MoblesAMida #Restaurants #Terrassa #ThinkOutside",
     },
     {
         "fitxer": "09-antes-despues.png",
-        "titol": "El procés: de la caixa a l'obra",
+        "titol": "El procés: abans de l'acabat",
         "alt": "Armari encastat en una habitació i cuina a mida en ple muntatge: dues estances sense acabats, amb els mobles ja col·locats.",
         "magrada": 431,
         "comentaris": 33,
-        "caption": """De la caixa a l'obra.
+        "caption": """Abans de l'acabat.
 
 Un armari encastat i una cuina a mida, tots dos
 encara en muntatge. Així es veu la feina abans
@@ -210,7 +210,7 @@ Tens un projecte? Enllaç a la bio.""",
 amb ofici i actitud professional.
 
 Què demanem:
-· Experiència en instal·lació i muntatge de fusteria
+· Experiència en instal·lació i muntatge de fusta
 · Ganes de fer bé la feina
 · Carnet de conduir (no és imprescindible, però es valora)
 
@@ -242,7 +242,7 @@ Com ens pots contactar:
 · comercial@oitinstalaciones.com
 · +34 630 377 574
 · Enllaç a la bio""",
-        "hashtags": "#PressupostSenseCompromís #DemanaPressupost #Reformes #Fusteria #ThinkOutside",
+        "hashtags": "#PressupostSenseCompromís #DemanaPressupost #Reformes #Fusta #ThinkOutside",
     },
     {
         "fitxer": "12-tarjeta-contacto.png",
@@ -252,12 +252,12 @@ Com ens pots contactar:
         "comentaris": 7,
         "caption": """Guarda aquesta targeta als teus destacats.
 
-Think Outside · Fusteria
+Think Outside · Instal·lacions
 Terrassa · Barcelona
 +34 630 377 574
 comercial@oitinstalaciones.com
 thinkoutside.es""",
-        "hashtags": "#Contacte #ThinkOutside #FusteriaTerrassa",
+        "hashtags": "#Contacte #ThinkOutside #MoblesTerrassa",
     },
     {
         "fitxer": "B1-cuidados-invierno.png",
@@ -281,7 +281,7 @@ un bon manteniment allarga la vida del paviment.
 
 Quin altre consell hi afegiries? Explica'ns-ho
 als comentaris.""",
-        "hashtags": "#ThinkOutside #Parquet #CuraDeLaFusta #ConsellsDeFusteria #Hivern #Fusta",
+        "hashtags": "#ThinkOutside #Parquet #CuraDeLaFusta #ConsellsDeFusta #Hivern #Fusta",
     },
     {
         "fitxer": "B2-mitos-vs-realidad.png",
@@ -305,7 +305,7 @@ s'esquerdi. Més no sempre vol dir millor.
 
 Quin d'aquests mites t'havien explicat?
 Si t'ha semblat útil, desa la publicació.""",
-        "hashtags": "#ThinkOutside #MitesSobreLaFusta #Fusteria #Curiositats #Fusta #Parquet",
+        "hashtags": "#ThinkOutside #MitesSobreLaFusta #Fusta #Curiositats #Fusta #Parquet",
     },
     {
         "fitxer": "B3-cinco-senales-puerta.png",
@@ -327,7 +327,7 @@ abans que el problema vagi a més.
 
 Escriu-nos o truca al 630 377 574.
 T'assessorarem sense compromís.""",
-        "hashtags": "#ThinkOutside #ReparacióDeFusta #PortesDeFusta #Reparacions #Fusteria #Restauració",
+        "hashtags": "#ThinkOutside #ReparacióDeFusta #PortesDeFusta #Reparacions #Fusta #Restauració",
     },
     {
         "fitxer": "B4-tipos-de-madera.png",
@@ -346,15 +346,15 @@ Pi — econòmic i versàtil, amb nusos característics.
 
 Tens un projecte al cap? Digues-nos quina fusta
 t'agrada i t'assessorarem.""",
-        "hashtags": "#ThinkOutside #TipusDeFusta #FustesNobles #Roure #Noguera #Cirerer #Fusteria",
+        "hashtags": "#ThinkOutside #TipusDeFusta #FustesNobles #Roure #Noguera #Cirerer #Fusta",
     },
     {
         "fitxer": "B5-glosario.png",
         "titol": "Glossari del taller",
-        "alt": "Glossari amb sis termes de fusteria: esquadria, encadellat, vernís, oli d'acabat, veta i tapajunts.",
+        "alt": "Glossari amb sis termes de fusta: esquadria, encadellat, vernís, oli d'acabat, veta i tapajunts.",
         "magrada": 596,
         "comentaris": 31,
-        "caption": """Sis termes que sentiràs en un taller de fusteria.
+        "caption": """Sis termes que sentiràs en un taller.
 
 Esquadria → mides de la secció d'una peça
 (gruix × amplada).
@@ -375,7 +375,7 @@ Tapajunts → motllura que cobreix la junta
 entre el terra i la paret o entre taulers.
 
 Desa-ho per a la pròxima reforma. """,
-        "hashtags": "#ThinkOutside #GlossariDeFusteria #Fusta #Ofici #Fusteria #AprenemAlTaller",
+        "hashtags": "#ThinkOutside #GlossariDeFusta #Fusta #Ofici #Fusta #AprenemAlTaller",
     },
     {
         "fitxer": "B6-sabias-que.png",
@@ -411,7 +411,7 @@ A Think Outside valorem tres coses:
 · Talent — saber trobar solucions
 · Qualitat — tenir cura dels detalls
 
-Som una empresa de fusteria fundada el 2017.
+Som una empresa d'instal·lacions de fusta fundada el 2017.
 Fem instal·lacions, reparacions i manteniment
 a Terrassa i rodalia.
 
@@ -456,7 +456,7 @@ uneixte@thinkoutside.es · 630 377 574""",
         "caption": """Què busquem en tu?
 
 1. Ofici — Saps instal·lar i muntar elements
-de fusteria.
+de fusta.
 
 2. Eficiència — Treballes amb eficàcia i vas
 més enllà de la teva tasca.

@@ -20,7 +20,7 @@ Lliga: `https://typeform.com/to/thinkoutside-unete` (substituir pel ID real).
 > Treballa amb nosaltres
 
 **Descripció**
-> Som Think Outside, una empresa de fusteria a Terrassa amb 9 anys d'experiència.
+> Som Think Outside, una empresa d'instal·lacions de fusta a Terrassa amb 9 anys d'experiència.
 > Busquem fusters, instal·ladors i muntadors amb ofici.
 >
 > Són 6 preguntes i no cal cap currículum en PDF: explica'ns-ho amb les teves

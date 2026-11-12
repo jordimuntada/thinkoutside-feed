@@ -24,7 +24,7 @@
     <text y="160" font-size="110" font-weight="700" fill="#54453A">Hola,</text>
     <text y="280" font-size="110" font-weight="700" fill="#54453A">Instagram.</text>
     <text y="380" font-size="26" font-weight="400" fill="#36332F">Som <tspan font-weight="700">Think Outside</tspan> —</text>
-    <text y="420" font-size="26" font-weight="400" fill="#36332F">fusters de Terrassa,</text>
+    <text y="420" font-size="26" font-weight="400" fill="#36332F">instal·ladors i muntadors de Terrassa,</text>
     <text y="460" font-size="26" font-weight="400" fill="#36332F">Barcelona.</text>
   </g>
 
@@ -34,6 +34,6 @@
   </g>
 
   <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
-    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTERIA</text>
+    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTA</text>
   </g>
 </svg>

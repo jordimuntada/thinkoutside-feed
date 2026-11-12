@@ -15,7 +15,7 @@ excepto una, con el copy, el caption y los hashtags de cada una.
 | **Nombre de usuario** | `@thinkoutside.es` |
 | **Nombre visible** | `Think Outside · Carpintería de madera` |
 | **Bio ES** | `Carpintería de madera en Terrassa 📍 9 años de oficio. Instalación · Reparación · Mantenimiento. 👇` |
-| **Bio CA** | `Fusteria a Terrassa 📍 9 anys d'experiència. Instal·lacions · Reparacions · Manteniment. 👇` |
+| **Bio CA** | `Instal·lacions de fusta a Terrassa 📍 9 anys d'experiència. Instal·lacions · Reparacions · Manteniment. 👇` |
 | **Enlace** | Linktree / enlace propio con: WhatsApp `+34 630 377 574` · Email comercial · Typeform (candidatos) · `thinkoutside.es` |
 | **Teléfono en bio** | `630 377 574` (móvil, mejor para WhatsApp que el fijo) |
 | **Categoría** | `Empresa de carpintería` / `Carpintería` |
@@ -247,7 +247,7 @@ para que tu madera dure décadas.
 ```
 Per fi també som aquí.
 
-Som Think Outside, una empresa de fusteria amb
+Som Think Outside, una empresa d'instal·lacions de fusta amb
 9 anys d'experiència. Treballem en projectes
 residencials, hotels, comerços i indústria.
 Fem instal·lacions, reparacions i manteniment,
@@ -259,7 +259,7 @@ perquè la fusta duri més.
 
 Comencem!
 
-#ThinkOutside #Fusteria #Terrassa #Fusta #NouPerfil
+#ThinkOutside #Fusta #Terrassa #Fusta #NouPerfil
 ```
 
 **Hashtags:** `#ThinkOutside #CarpinteriaDeMadera #Terrassa #CarpinterosBarcelona #NuevoEnInstagram`
@@ -307,7 +307,7 @@ ofici, atenció al detall i compromís.
 Gràcies a totes les persones que ens heu confiat
 els vostres projectes.
 
-#9Anys #Trajectòria #ThinkOutside #Fusteria
+#9Anys #Trajectòria #ThinkOutside #Fusta
 #Professionalitat
 ```
 
@@ -359,7 +359,7 @@ visitarem l'espai i t'assessorarem sense compromís.
 → Enllaç a la bio · missatge directe
 comercial@oitinstalaciones.com
 #Instal·lacions #Parquet #ArmarisEncastats
-#FusteriaAMida #Reformes
+#MoblesAMida #Reformes
 ```
 
 **Hashtags:** `#Instalaciones #Parquet #ArmariosEmpotrados #CarpinteríaAMedida #Reformas`
@@ -411,7 +411,7 @@ i acordem una data d'intervenció.
 
 Escriu-nos per missatge directe o truca al 630 377 574.
 
-#ReparacióDeFusta #Restauració #Fusteria
+#ReparacióDeFusta #Restauració #Fusta
 #Reparacions #ThinkOutside
 ```
 
@@ -605,9 +605,9 @@ La primera foto és durant el muntatge; la segona,
 el resultat amb les ampolles ja col·locades.
 
 Tens un local o una oficina que necessita
-fusteria a mida? Enllaç a la bio.
+mobles a mida? Enllaç a la bio.
 
-#ProjecteReal #Hostaleria #Vinoteca #FusteriaAMida
+#ProjecteReal #Hostaleria #Vinoteca #MoblesAMida
 #Restaurants #Terrassa #ThinkOutside
 ```
 
@@ -623,11 +623,11 @@ fusteria a mida? Enllaç a la bio.
 **Objetivo:** enseñar el proceso, no solo el resultado. Transparencia de obra: refuerza confianza.
 **Versión anterior archivada:** `variants/09-proceso-cocina/` (las dos fotos de cocina, etiquetas ESTRUCTURA / INTERIOR), guardada por si se quiere publicar más adelante.
 **Fotos:** `fotos-outside/PHOTO-2026-04-22-17-05-40 2.jpg` (habitación con armario encastado) y `09-muntatge-1.jpg` (cocina en montaje). Recortes 900 × 1200 guardados como `fotos-outside/09-habitacio-1.jpg` y `09-muntatge-1.jpg`, incrustados en el SVG en base64.
-**Copy en la pieza:** «EL PROCESO» / «EL PROCÉS» · «De la caja a la obra.» / «De la caixa a l'obra.» · «Armarios encastados y cocina a medida, en plena obra.» / «Armaris encastats i cuina a mida, en plena obra.» · etiquetas «HABITACIÓN» / «HABITACIÓ» y «COCINA» / «CUINA» · «Carpintería a medida» / «Fusteria a mida» · «Terrassa, Barcelona» · CTA «¿Tienes un proyecto? Escríbenos →» / «Tens un projecte? Escriu-nos →».
+**Copy en la pieza:** «EL PROCESO» / «EL PROCÉS» · «Antes del acabado.» / «Abans de l'acabat.» · «Armarios encastados y cocina a medida, en plena obra.» / «Armaris encastats i cuina a mida, en plena obra.» · etiquetas «HABITACIÓN» / «HABITACIÓ» y «COCINA» / «CUINA» · «Carpintería a medida» / «Fusta a mida» · «Terrassa, Barcelona» · CTA «¿Tienes un proyecto? Escríbenos →» / «Tens un projecte? Escriu-nos →».
 
 **Caption ES**
 ```
-De la caja a la obra.
+Antes del acabado.
 
 Un armario encastado y una cocina a medida, los
 dos todavía en montaje. Así se ve el trabajo
@@ -646,7 +646,7 @@ y fregadero.
 
 **Caption CA**
 ```
-De la caixa a l'obra.
+Abans de l'acabat.
 
 Un armari encastat i una cuina a mida, tots dos
 encara en muntatge. Així es veu la feina abans
@@ -702,7 +702,7 @@ Si lo prefieres, escríbenos a unete@thinkoutside.es
 Estem creixent i busquem fusters amb ofici
 
 Què demanem:
-· Experiència en instal·lació de fusteria
+· Experiència en instal·lació de fusta
 · Ganes de fer bé la feina
 · Carnet de conduir (no és imprescindible, però es valora)
 
@@ -715,7 +715,7 @@ https://typeform.com/to/thinkoutside-unete
 
 Si ho prefereixes, escriu-nos a uneixte@thinkoutside.es.
 
-#BusquemFusters #OfertaDeFeina #Fusteria
+#BusquemInstaladors #OfertaDeFeina #Fusta
 #TreballaAmbNosaltres #ThinkOutside
 ```
 
@@ -767,7 +767,7 @@ Com ens pots contactar:
 · Enllaç a la bio
 
 #PressupostSenseCompromís #DemanaPressupost
-#Reformes #Fusteria #ThinkOutside
+#Reformes #Fusta #ThinkOutside
 ```
 
 **Hashtags:** `#PresupuestoSinCompromiso #PidePresupuesto #Reforma #Carpinteria #ThinkOutside`
@@ -782,7 +782,7 @@ Com ens pots contactar:
 **CA** `creatives/ca/12-tarjeta-contacto.svg` → `creatives/ca/png/12-tarjeta-contacto.png`
 
 **Objetivo:** pieza fija tipo "signature". Guárdala en un destacado y compártela por DM.
-**Copy en la peça:** «CONTACTE» · H1 «Parlem.» · **+34 630 377 574** · `comercial@oitinstalaciones.com` · `thinkoutside.es` · «Carrer Apol·lo 10 · 08228 Terrassa, Barcelona» · peu «ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTERIA».
+**Copy en la peça:** «CONTACTE» · H1 «Parlem.» · **+34 630 377 574** · `comercial@oitinstalaciones.com` · `thinkoutside.es` · «Carrer Apol·lo 10 · 08228 Terrassa, Barcelona» · peu «ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTA».
 
 **Caption ES**
 ```
@@ -801,13 +801,13 @@ thinkoutside.es
 ```
 Guarda aquesta targeta als teus destacats.
 
-Think Outside · Fusteria
+Think Outside · Instal·lacions
 Terrassa · Barcelona
 +34 630 377 574
 comercial@oitinstalaciones.com
 thinkoutside.es
 
-#Contacte #ThinkOutside #FusteriaTerrassa
+#Contacte #ThinkOutside #MoblesTerrassa
 ```
 
 **Hashtags:** `#Contacto #ThinkOutside #CarpinteriaTerrassa`
@@ -867,7 +867,7 @@ Quin altre consell hi afegiries? Explica'ns-ho
 als comentaris.
 
 #ThinkOutside #Parquet #CuraDeLaFusta
-#ConsellsDeFusteria #Hivern #Fusta
+#ConsellsDeFusta #Hivern #Fusta
 ```
 
 **Hashtags:** `#ThinkOutside #Parquet #CuidadosDeMadera #TipsDeCarpintería #InviernoEnCasa #Madera`
@@ -925,7 +925,7 @@ s'esquerdi. Més no sempre vol dir millor.
 Quin d'aquests mites t'havien explicat?
 Si t'ha semblat útil, desa la publicació.
 
-#ThinkOutside #MitesSobreLaFusta #Fusteria
+#ThinkOutside #MitesSobreLaFusta #Fusta
 #Curiositats #Fusta #Parquet
 ```
 
@@ -982,7 +982,7 @@ Escriu-nos o truca al 630 377 574.
 T'assessorarem sense compromís.
 
 #ThinkOutside #ReparacióDeFusta #PortesDeFusta
-#Reparacions #Fusteria #Restauració
+#Reparacions #Fusta #Restauració
 ```
 
 **Hashtags:** `#ThinkOutside #ReparaciónMadera #PuertasDeMadera #ChecklistHogar #Carpintería #Restauración`
@@ -1031,7 +1031,7 @@ Tens un projecte al cap? Digues-nos quina fusta
 t'agrada i t'assessorarem.
 
 #ThinkOutside #TipusDeFusta #FustesNobles
-#Roure #Noguera #Cirerer #Fusteria
+#Roure #Noguera #Cirerer #Fusta
 ```
 
 **Hashtags:** `#ThinkOutside #TiposDeMadera #MaderasNobles #Roble #Nogal #Cerezo #CarpinteríaDeMadera`
@@ -1078,7 +1078,7 @@ Guárdalo para tu próxima reforma
 
 **Caption CA**
 ```
-Sis termes que sentiràs en un taller de fusteria.
+Sis termes que sentiràs en un taller.
 
 Esquadria → mides de la secció d'una peça
 (gruix × amplada).
@@ -1100,8 +1100,8 @@ entre el terra i la paret o entre taulers.
 
 Desa-ho per a la pròxima reforma.
 
-#ThinkOutside #GlossariDeFusteria #Fusta
-#Ofici #Fusteria #AprenemAlTaller
+#ThinkOutside #GlossariDeFusta #Fusta
+#Ofici #Fusta #AprenemAlTaller
 ```
 
 **Hashtags:** `#ThinkOutside #GlosarioCarpintería #AprendemosEnElTaller #Madera #Oficio #Carpinteros`
@@ -1214,7 +1214,7 @@ https://typeform.com/to/thinkoutside-unete
 
 O escriu-nos a uneixte@thinkoutside.es · 630 377 574.
 
-#BusquemFusters #OfertaDeFeina #Fusteria
+#BusquemInstaladors #OfertaDeFeina #Fusta
 #TreballaAmbNosaltres #ThinkOutside
 ```
 
@@ -1279,8 +1279,8 @@ https://typeform.com/to/thinkoutside-unete
 
 uneixte@thinkoutside.es · 630 377 574
 
-#BusquemFusters #OfertaDeFeina #Ofici
-#Fusteria #ThinkOutside
+#BusquemInstaladors #OfertaDeFeina #Ofici
+#Fusta #ThinkOutside
 ```
 
 **Hashtags:** `#ThinkOutside #Hiring #Carpinteros #OfertaDeTrabajo #Oficio`
@@ -1342,7 +1342,7 @@ https://typeform.com/to/thinkoutside-unete
 
 uneixte@thinkoutside.es · 630 377 574
 
-#BusquemFusters #OfertaDeFeina #Fusteria
+#BusquemInstaladors #OfertaDeFeina #Fusta
 #TreballaAmbNosaltres #ThinkOutside
 ```
 

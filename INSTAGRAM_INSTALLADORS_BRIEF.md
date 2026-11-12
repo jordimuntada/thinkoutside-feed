@@ -17,13 +17,14 @@ Còpia del **set català complet** (`creatives\ca\`) on el rol que es busca ja n
 | `10-unete-equipo` | «BUSQUEM **FUSTERS**» · «Cerquem **fusters** amb ofici.» | «BUSQUEM **INSTAL·LADORS I MUNTADORS**» · «Cerquem **instal·ladors i muntadors**.» |
 | `C1-calidad` | «BUSQUEM **FUSTERS**» | «BUSQUEM **INSTAL·LADORS I MUNTADORS**» |
 | `C2-oficio` | «BUSQUEM **FUSTERS**» | «BUSQUEM **INSTAL·LADORS I MUNTADORS**» |
-| `C3-perfil` | «BUSQUEM **FUSTERS**» · «Saps treballar la fusta i entens com s'instal·la.» | «BUSQUEM **INSTAL·LADORS I MUNTADORS**» · «Saps **instal·lar i muntar** elements de fusteria.» |
+| `C3-perfil` | «BUSQUEM **FUSTERS**» · «Saps treballar la fusta i entens com s'instal·la.» | «BUSQUEM **INSTAL·LADORS I MUNTADORS**» · «Saps **instal·lar i muntar** elements de fusta.» |
 
 Les altres **16 peces són idèntiques** al set original: no parlaven de fusters
 (bienvenida a banda), sinó de serveis, projectes, consells i marca.
 
-> **No s'ha tocat «FUSTERIA»** al peu de pàgina ni a les etiquetes de servei: és
-> el nom del gremi i de l'empresa, no el lloc de treball.
+> **La paraula «fusteria» no s'usa enlloc**: al peu de pàgina i a les etiquetes
+> de servei s'ha substituït per «fusta» o «mobles». «Fusters» només apareix a
+> l'anunci de feina del set principal.
 
 ---
 
@@ -34,7 +35,7 @@ Les altres **16 peces són idèntiques** al set original: no parlaven de fusters
 ```
 Per fi també som aquí.
 
-Som Think Outside, una empresa de fusteria amb
+Som Think Outside, una empresa d'instal·lacions de fusta amb
 9 anys d'experiència. Fem instal·lacions,
 reparacions i manteniment, i treballem amb
 instal·ladors i muntadors propis.
@@ -45,7 +46,7 @@ perquè la fusta duri més.
 
 Comencem!
 
-#ThinkOutside #Fusteria #Terrassa #Instal·ladors #NouPerfil
+#ThinkOutside #Fusta #Terrassa #Instal·ladors #NouPerfil
 ```
 
 ### 10 · Únete al equipo
@@ -55,7 +56,7 @@ Estem creixent i busquem instal·ladors i muntadors
 amb ofici i actitud professional.
 
  Què demanem:
-· Experiència en instal·lació i muntatge de fusteria
+· Experiència en instal·lació i muntatge de fusta
 · Ganes de fer bé la feina
 · Carnet de conduir (no és imprescindible, però es valora)
 
@@ -83,7 +84,7 @@ A Think Outside valorem tres coses:
 · Talent — saber trobar solucions
 · Qualitat — tenir cura dels detalls
 
-Som una empresa de fusteria fundada el 2017.
+Som una empresa d'instal·lacions de fusta fundada el 2017.
 Fem instal·lacions, reparacions i manteniment
 a Terrassa i rodalia.
 
@@ -128,7 +129,7 @@ uneixte@thinkoutside.es · 630 377 574
 Què busquem en tu?
 
 1. Ofici — Saps instal·lar i muntar elements
-de fusteria.
+de fusta.
 
 2. Eficiència — Treballes amb eficàcia i vas
 més enllà de la teva tasca.

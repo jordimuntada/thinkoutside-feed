@@ -323,14 +323,14 @@ carpintería a medida? Link en bio.
 
 **Copy en la pieza**
 - Eyebrow: "EL PROCESO"
-- H1: "De la caja a la obra."
+- H1: "Antes del acabado."
 - Sub: "Armarios encastados y cocina a medida, en plena obra."
 - Etiquetas sobre las fotos: "HABITACIÓN" · "COCINA"
 - Pills: "Carpintería a medida" · "Terrassa, Barcelona" · CTA "¿Tienes un proyecto? Escríbenos →"
 
 **Caption**
 ```
-De la caja a la obra.
+Antes del acabado.
 
 Un armario encastado y una cocina a medida, los
 dos todavía en montaje. Así se ve el trabajo

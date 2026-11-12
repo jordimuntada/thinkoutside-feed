@@ -5,8 +5,8 @@ window.POSTS = [
     "alt": "Portada de benvinguda de Think Outside amb el titular «Hola, Instagram» i el text «Som Think Outside».",
     "magrada": 384,
     "comentaris": 21,
-    "caption": "Per fi també som aquí.\n\nSom Think Outside, una empresa de fusteria amb\n9 anys d'experiència. Fem instal·lacions,\nreparacions i manteniment, i treballem amb\ninstal·ladors i muntadors propis.\n\nEn aquest perfil compartirem projectes, abans i després,\nconsells pràctics i moments del dia a dia de les obres\nperquè la fusta duri més.\n\nComencem!",
-    "hashtags": "#ThinkOutside #Fusteria #Terrassa #Instaladors #NouPerfil",
+    "caption": "Per fi també som aquí.\n\nSom Think Outside, una empresa d'instal·lacions de fusta amb\n9 anys d'experiència. Fem instal·lacions,\nreparacions i manteniment, i treballem amb\ninstal·ladors i muntadors propis.\n\nEn aquest perfil compartirem projectes, abans i després,\nconsells pràctics i moments del dia a dia de les obres\nperquè la fusta duri més.\n\nComencem!",
+    "hashtags": "#ThinkOutside #Fusta #Terrassa #Instaladors #NouPerfil",
     "pendent": false
   },
   {
@@ -16,7 +16,7 @@ window.POSTS = [
     "magrada": 512,
     "comentaris": 34,
     "caption": "Vam començar el 2017 amb una taula de taller\ni moltes ganes. Nou anys després, encara creiem\nel mateix: cada tall compta.\n\nAl llarg d'aquests anys hem treballat en habitatges,\nhotels, hospitals, botigues i naus industrials.\nLa nostra manera de treballar no ha canviat:\nofici, atenció al detall i compromís.\n\nGràcies a totes les persones que ens heu confiat\nels vostres projectes.",
-    "hashtags": "#9Anys #Trajectòria #ThinkOutside #Fusteria #Professionalitat",
+    "hashtags": "#9Anys #Trajectòria #ThinkOutside #Fusta #Professionalitat",
     "pendent": false
   },
   {
@@ -26,17 +26,17 @@ window.POSTS = [
     "magrada": 297,
     "comentaris": 12,
     "caption": "Comencem per un dels serveis que més ens demanen:\n\nINSTAL·LACIONS.\nInstal·lem parquet i portes, col·loquem armaris\nencastats, revestim parets i muntem mobles de cuina.\nPrenem mides, fabriquem si cal i fem la instal·lació\namb cura i dins del termini acordat.\n\nTens una reforma entre mans? Escriu-nos:\nvisitarem l'espai i t'assessorarem sense compromís.\n\n→ Enllaç a la bio · missatge directe\ncomercial@oitinstalaciones.com",
-    "hashtags": "#Instalacions #Parquet #ArmarisEncastats #FusteriaAMida #Reformes",
+    "hashtags": "#Instalacions #Parquet #ArmarisEncastats #MoblesAMida #Reformes",
     "pendent": false
   },
   {
     "fitxer": "04-servicio-reparacion.png",
     "titol": "Servei: reparació",
-    "alt": "Peça del servei de reparació de Think Outside amb cinc avaries habituals de fusteria.",
+    "alt": "Peça del servei de reparació de Think Outside amb cinc avaries habituals de fusta.",
     "magrada": 341,
     "comentaris": 27,
     "caption": "Allò que es trenca també es pot reparar — i, de vegades,\nqueda millor que abans.\n\nREPARACIÓ.\nReparem elements de fusta: portes que freguen,\nfrontisses fluixes o trencades, calaixos desquadrats,\nparquet malmès per l'aigua i marcs desencaixats.\n\nValorem l'avaria, preparem un pressupost tancat\ni acordem una data d'intervenció.\n\nEscriu-nos per missatge directe o truca al 630 377 574.",
-    "hashtags": "#ReparacióDeFusta #Restauració #Fusteria #Reparacions #ThinkOutside",
+    "hashtags": "#ReparacióDeFusta #Restauració #Fusta #Reparacions #ThinkOutside",
     "pendent": false
   },
   {
@@ -75,17 +75,17 @@ window.POSTS = [
     "alt": "Vinoteques a mida en un restaurant: dos armaris expositius amb portes de vidre i llum LED, abans i després del muntatge.",
     "magrada": 742,
     "comentaris": 48,
-    "caption": "Vinoteques a mida per a un restaurant.\n\nDos armaris expositius amb portes de vidre,\nprestatges de cristall i llum LED integrada.\nMarcs de fusta a joc amb la resta de la sala.\n\nLa primera foto és durant el muntatge; la segona,\nel resultat amb les ampolles ja col·locades.\n\nTens un local o una oficina que necessita\nfusteria a mida? Enllaç a la bio.",
-    "hashtags": "#ProjecteReal #Hostaleria #Vinoteca #FusteriaAMida #Restaurants #Terrassa #ThinkOutside",
+    "caption": "Vinoteques a mida per a un restaurant.\n\nDos armaris expositius amb portes de vidre,\nprestatges de cristall i llum LED integrada.\nMarcs de fusta a joc amb la resta de la sala.\n\nLa primera foto és durant el muntatge; la segona,\nel resultat amb les ampolles ja col·locades.\n\nTens un local o una oficina que necessita\nmobles a mida? Enllaç a la bio.",
+    "hashtags": "#ProjecteReal #Hostaleria #Vinoteca #MoblesAMida #Restaurants #Terrassa #ThinkOutside",
     "pendent": false
   },
   {
     "fitxer": "09-antes-despues.png",
-    "titol": "El procés: de la caixa a l'obra",
+    "titol": "El procés: abans de l'acabat",
     "alt": "Armari encastat en una habitació i cuina a mida en ple muntatge: dues estances sense acabats, amb els mobles ja col·locats.",
     "magrada": 431,
     "comentaris": 33,
-    "caption": "De la caixa a l'obra.\n\nUn armari encastat i una cuina a mida, tots dos\nencara en muntatge. Així es veu la feina abans\ndels acabats.\n\nArmaris de terra a sostre amb portes llises i\ntiradors de barra. Cuina amb fronts lacats en\nblanc mat, a l'espera d'encimera, placa i\naigüera.\n\nTens un projecte? Enllaç a la bio.",
+    "caption": "Abans de l'acabat.\n\nUn armari encastat i una cuina a mida, tots dos\nencara en muntatge. Així es veu la feina abans\ndels acabats.\n\nArmaris de terra a sostre amb portes llises i\ntiradors de barra. Cuina amb fronts lacats en\nblanc mat, a l'espera d'encimera, placa i\naigüera.\n\nTens un projecte? Enllaç a la bio.",
     "hashtags": "#ProjecteReal #ArmarisEncastats #CuinaAMida #ReformaIntegral #Terrassa #ThinkOutside",
     "pendent": false
   },
@@ -95,7 +95,7 @@ window.POSTS = [
     "alt": "Anunci de feina de Think Outside: busquem instal·ladors i muntadors amb ofici.",
     "magrada": 356,
     "comentaris": 29,
-    "caption": "Estem creixent i busquem instal·ladors i muntadors\namb ofici i actitud professional.\n\nQuè demanem:\n· Experiència en instal·lació i muntatge de fusteria\n· Ganes de fer bé la feina\n· Carnet de conduir (no és imprescindible, però es valora)\n\nQuè oferim:\n· Estabilitat i un projecte a llarg termini\n· Bon ambient d'equip\n\nInscriu-t'hi en 2 minuts, sense adjuntar cap PDF:\nhttps://typeform.com/to/thinkoutside-unete\n\nSi ho prefereixes, escriu-nos a uneixte@thinkoutside.es.",
+    "caption": "Estem creixent i busquem instal·ladors i muntadors\namb ofici i actitud professional.\n\nQuè demanem:\n· Experiència en instal·lació i muntatge de fusta\n· Ganes de fer bé la feina\n· Carnet de conduir (no és imprescindible, però es valora)\n\nQuè oferim:\n· Estabilitat i un projecte a llarg termini\n· Bon ambient d'equip\n\nInscriu-t'hi en 2 minuts, sense adjuntar cap PDF:\nhttps://typeform.com/to/thinkoutside-unete\n\nSi ho prefereixes, escriu-nos a uneixte@thinkoutside.es.",
     "hashtags": "#Instaladors #Muntadors #OfertaDeFeina #TreballaAmbNosaltres #ThinkOutside",
     "pendent": false
   },
@@ -106,7 +106,7 @@ window.POSTS = [
     "magrada": 214,
     "comentaris": 11,
     "caption": "Demana pressupost sense compromís.\n\nExplica'ns què necessites — una instal·lació,\nuna reparació o un servei de manteniment — i et\nrespondrem en menys de 24 hores amb una primera\nvaloració.\n\nCom ens pots contactar:\n· Missatge directe\n· comercial@oitinstalaciones.com\n· +34 630 377 574\n· Enllaç a la bio",
-    "hashtags": "#PressupostSenseCompromís #DemanaPressupost #Reformes #Fusteria #ThinkOutside",
+    "hashtags": "#PressupostSenseCompromís #DemanaPressupost #Reformes #Fusta #ThinkOutside",
     "pendent": false
   },
   {
@@ -115,8 +115,8 @@ window.POSTS = [
     "alt": "Targeta de contacte de Think Outside amb telèfon, correu, web i adreça a Terrassa.",
     "magrada": 189,
     "comentaris": 7,
-    "caption": "Guarda aquesta targeta als teus destacats.\n\nThink Outside · Fusteria\nTerrassa · Barcelona\n+34 630 377 574\ncomercial@oitinstalaciones.com\nthinkoutside.es",
-    "hashtags": "#Contacte #ThinkOutside #FusteriaTerrassa",
+    "caption": "Guarda aquesta targeta als teus destacats.\n\nThink Outside · Instal·lacions\nTerrassa · Barcelona\n+34 630 377 574\ncomercial@oitinstalaciones.com\nthinkoutside.es",
+    "hashtags": "#Contacte #ThinkOutside #MoblesTerrassa",
     "pendent": false
   },
   {
@@ -126,7 +126,7 @@ window.POSTS = [
     "magrada": 508,
     "comentaris": 24,
     "caption": "Quatre consells per cuidar el parquet a l'hivern\n(i evitar que es faci malbé).\n\nLa calefacció resseca la fusta i pot fer que\ns'encongeixi. Si s'obren juntes entre les peces,\nla humitat de l'habitatge també hi pot influir.\n\nEvita mullar massa el parquet. Fes servir un drap\nhumit i ben escorregut. L'aigua entollada pot fer\nque la fusta s'infli i deixar taques al vernís.\n\nCada 3–5 anys, renova el vernís si cal:\nun bon manteniment allarga la vida del paviment.\n\nQuin altre consell hi afegiries? Explica'ns-ho\nals comentaris.",
-    "hashtags": "#ThinkOutside #Parquet #CuraDeLaFusta #ConsellsDeFusteria #Hivern #Fusta",
+    "hashtags": "#ThinkOutside #Parquet #CuraDeLaFusta #ConsellsDeFusta #Hivern #Fusta",
     "pendent": false
   },
   {
@@ -136,7 +136,7 @@ window.POSTS = [
     "magrada": 674,
     "comentaris": 62,
     "caption": "Tres mites sobre la fusta que no són certs.\n\n«La fusta i l'aigua no són compatibles.»\nAmb el tractament adequat i un bon manteniment,\nla fusta pot durar dècades.\n\n«El parquet és per a cases antigues.»\nÉs un paviment actual, tant en obra nova\ncom en reformes.\n\n«Com més vernís, millor.»\nL'excés de vernís pot fer que l'acabat\ns'esquerdi. Més no sempre vol dir millor.\n\nQuin d'aquests mites t'havien explicat?\nSi t'ha semblat útil, desa la publicació.",
-    "hashtags": "#ThinkOutside #MitesSobreLaFusta #Fusteria #Curiositats #Fusta #Parquet",
+    "hashtags": "#ThinkOutside #MitesSobreLaFusta #Fusta #Curiositats #Fusta #Parquet",
     "pendent": false
   },
   {
@@ -146,7 +146,7 @@ window.POSTS = [
     "magrada": 442,
     "comentaris": 19,
     "caption": "Cinc senyals que indiquen que cal revisar la porta.\n\nSi n'hi reconeixes una, probablement té solució.\nSi en detectes dues o més, contacta amb nosaltres\nabans que el problema vagi a més.\n\n· La porta frega amb el marc\n· Les frontisses estan fluixes o grinyolen\n· La fusta s'ha inflat per la humitat\n· El vernís està esquerdat o aixecat\n· El pany falla o es mou\n\nEscriu-nos o truca al 630 377 574.\nT'assessorarem sense compromís.",
-    "hashtags": "#ThinkOutside #ReparacióDeFusta #PortesDeFusta #Reparacions #Fusteria #Restauració",
+    "hashtags": "#ThinkOutside #ReparacióDeFusta #PortesDeFusta #Reparacions #Fusta #Restauració",
     "pendent": false
   },
   {
@@ -156,17 +156,17 @@ window.POSTS = [
     "magrada": 731,
     "comentaris": 38,
     "caption": "Les sis fustes que més treballem al taller.\n\nRoure — dur i resistent; un clàssic per al parquet.\nNoguera — fosca, de veta marcada i tacte noble.\nCastanyer — resistent a la humitat, ideal per a exteriors.\nCirerer — càlid, de veta fina; envelleix amb caràcter.\nFaig — clar, dur i fàcil de treballar.\nPi — econòmic i versàtil, amb nusos característics.\n\nTens un projecte al cap? Digues-nos quina fusta\nt'agrada i t'assessorarem.",
-    "hashtags": "#ThinkOutside #TipusDeFusta #FustesNobles #Roure #Noguera #Cirerer #Fusteria",
+    "hashtags": "#ThinkOutside #TipusDeFusta #FustesNobles #Roure #Noguera #Cirerer #Fusta",
     "pendent": false
   },
   {
     "fitxer": "B5-glosario.png",
     "titol": "Glossari del taller",
-    "alt": "Glossari amb sis termes de fusteria: esquadria, encadellat, vernís, oli d'acabat, veta i tapajunts.",
+    "alt": "Glossari amb sis termes de fusta: esquadria, encadellat, vernís, oli d'acabat, veta i tapajunts.",
     "magrada": 596,
     "comentaris": 31,
-    "caption": "Sis termes que sentiràs en un taller de fusteria.\n\nEsquadria → mides de la secció d'una peça\n(gruix × amplada).\n\nEncadellat → unió de peces amb una ranura\ni una llengüeta que encaixen.\n\nVernís → capa protectora amb acabat mat,\nsetinat o brillant.\n\nOli d'acabat → nodreix la fusta sense segellar-la;\npermet reparar-ne zones concretes.\n\nVeta → dibuix natural de les fibres de la fusta.\nCada peça és única.\n\nTapajunts → motllura que cobreix la junta\nentre el terra i la paret o entre taulers.\n\nDesa-ho per a la pròxima reforma.",
-    "hashtags": "#ThinkOutside #GlossariDeFusteria #Fusta #Ofici #Fusteria #AprenemAlTaller",
+    "caption": "Sis termes que sentiràs en un taller.\n\nEsquadria → mides de la secció d'una peça\n(gruix × amplada).\n\nEncadellat → unió de peces amb una ranura\ni una llengüeta que encaixen.\n\nVernís → capa protectora amb acabat mat,\nsetinat o brillant.\n\nOli d'acabat → nodreix la fusta sense segellar-la;\npermet reparar-ne zones concretes.\n\nVeta → dibuix natural de les fibres de la fusta.\nCada peça és única.\n\nTapajunts → motllura que cobreix la junta\nentre el terra i la paret o entre taulers.\n\nDesa-ho per a la pròxima reforma.",
+    "hashtags": "#ThinkOutside #GlossariDeFusta #Fusta #Ofici #Fusta #AprenemAlTaller",
     "pendent": false
   },
   {
@@ -185,7 +185,7 @@ window.POSTS = [
     "alt": "Anunci de feina de Think Outside amb tres targetes: eficiència, talent i qualitat.",
     "magrada": 402,
     "comentaris": 26,
-    "caption": "Busquem persones que facin bé la seva feina\ni que treballin amb criteri.\n\nA Think Outside valorem tres coses:\n· Eficiència — fer la feina bé, sense repeticions\n· Talent — saber trobar solucions\n· Qualitat — tenir cura dels detalls\n\nSom una empresa de fusteria fundada el 2017.\nFem instal·lacions, reparacions i manteniment\na Terrassa i rodalia.\n\nInscriu-t'hi en 2 minuts, sense adjuntar cap PDF:\nhttps://typeform.com/to/thinkoutside-unete\n\nO escriu-nos a uneixte@thinkoutside.es · 630 377 574",
+    "caption": "Busquem persones que facin bé la seva feina\ni que treballin amb criteri.\n\nA Think Outside valorem tres coses:\n· Eficiència — fer la feina bé, sense repeticions\n· Talent — saber trobar solucions\n· Qualitat — tenir cura dels detalls\n\nSom una empresa d'instal·lacions de fusta fundada el 2017.\nFem instal·lacions, reparacions i manteniment\na Terrassa i rodalia.\n\nInscriu-t'hi en 2 minuts, sense adjuntar cap PDF:\nhttps://typeform.com/to/thinkoutside-unete\n\nO escriu-nos a uneixte@thinkoutside.es · 630 377 574",
     "hashtags": "#Instaladors #Muntadors #OfertaDeFeina #TreballaAmbNosaltres #ThinkOutside",
     "pendent": false
   },
@@ -205,7 +205,7 @@ window.POSTS = [
     "alt": "Anunci de feina de Think Outside amb quatre requisits: ofici, eficiència, criteri i ganes de créixer.",
     "magrada": 377,
     "comentaris": 24,
-    "caption": "Què busquem en tu?\n\n1. Ofici — Saps instal·lar i muntar elements\nde fusteria.\n\n2. Eficiència — Treballes amb eficàcia i vas\nmés enllà de la teva tasca.\n\n3. Criteri — Quan alguna cosa no quadra,\nho dius i saps com millorar-la.\n\n4. Ganes de créixer — T'impliques en les tasques\ndel taller i de les obres.\n\nT'hi reconeixes? Inscriu-t'hi:\nhttps://typeform.com/to/thinkoutside-unete\n\nuneixte@thinkoutside.es · 630 377 574",
+    "caption": "Què busquem en tu?\n\n1. Ofici — Saps instal·lar i muntar elements\nde fusta.\n\n2. Eficiència — Treballes amb eficàcia i vas\nmés enllà de la teva tasca.\n\n3. Criteri — Quan alguna cosa no quadra,\nho dius i saps com millorar-la.\n\n4. Ganes de créixer — T'impliques en les tasques\ndel taller i de les obres.\n\nT'hi reconeixes? Inscriu-t'hi:\nhttps://typeform.com/to/thinkoutside-unete\n\nuneixte@thinkoutside.es · 630 377 574",
     "hashtags": "#Instaladors #Muntadors #OfertaDeFeina #TreballaAmbNosaltres #ThinkOutside",
     "pendent": false
   }

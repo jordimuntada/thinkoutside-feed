@@ -24,7 +24,7 @@
     <circle cx="60" cy="56" r="28" fill="#D4A373"/>
     <text x="60" y="66" text-anchor="middle" font-size="28" font-weight="700" fill="#FFFFFF">1</text>
     <text x="120" y="50" font-size="25" font-weight="700" fill="#54453A">Ofici real</text>
-    <text x="120" y="82" font-size="18" font-weight="400" fill="#36332F">Saps instal·lar i muntar elements de fusteria.</text>
+    <text x="120" y="82" font-size="18" font-weight="400" fill="#36332F">Saps instal·lar i muntar elements de fusta.</text>
   </g>
 
   <g transform="translate(60,660)">
@@ -63,6 +63,6 @@
   </g>
 
   <g transform="translate(60,1290)" font-size="16" font-weight="500" fill="#54453A" letter-spacing="3">
-    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTERIA</text>
+    <text>ESPECIALISTES EN INSTAL·LACIONS I MANTENIMENT DE FUSTA</text>
   </g>
 </svg>
