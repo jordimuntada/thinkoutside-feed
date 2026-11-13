@@ -17,7 +17,7 @@ Documentación de la identidad de marca del sitio web **thinkoutside.es**, recop
 | Sede | Carrer Apol·lo 10 — 08228 Terrassa, Barcelona (España) |
 | Teléfono | 630 377 574 (+34 630 377 574) |
 | Email | comercial@oitinstalaciones.com |
-| Email — selección / CV | unete@thinkoutside.es (ES) · uneixte@thinkoutside.es (CA) — canal principal de captación: Typeform `https://typeform.com/to/thinkoutside-unete` |
+| Email — selección / CV | unete@thinkoutside.es (ES) · uneixte@thinkoutside.es (CA) — canal principal de captación: formulario web `https://forms.gle/KPky7uANSZC52mFUA` |
 | Año fundación (footer) | 2025 |
 | Idiomas publicados | es, ca, en, ar (RTL) |
 

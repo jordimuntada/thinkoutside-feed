@@ -64,10 +64,14 @@ amb ofici i actitud professional.
 · Estabilitat i un projecte a llarg termini
 · Bon ambient d'equip
 
- Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
-https://typeform.com/to/thinkoutside-unete
+ Inscriu-t'hi en 2 minuts:
+https://forms.gle/KPky7uANSZC52mFUA
 
-Si ho prefereixes, escriu-nos a uneixte@thinkoutside.es.
+Després, envia el teu CV a
+uneixte@thinkoutside.es amb el teu
+nom i cognoms.
+
+Si ho prefereixes, truca al 630 377 574.
 
 #Instaladors #Muntadors #OfertaDeFeina
 #TreballaAmbNosaltres #ThinkOutside
@@ -88,10 +92,14 @@ Som una empresa d'instal·lacions de fusta fundada el 2017.
 Fem instal·lacions, reparacions i manteniment
 a Terrassa i rodalia.
 
- Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
-https://typeform.com/to/thinkoutside-unete
+ Inscriu-t'hi en 2 minuts:
+https://forms.gle/KPky7uANSZC52mFUA
 
-O escriu-nos a uneixte@thinkoutside.es · 630 377 574
+Després, envia el teu CV a
+uneixte@thinkoutside.es amb el teu
+nom i cognoms.
+
+O truca'ns al 630 377 574
 
 #Instaladors #Muntadors #OfertaDeFeina
 #TreballaAmbNosaltres #ThinkOutside
@@ -113,11 +121,15 @@ no van com haurien d'anar.
 
  Qualitat — L'acabat no es negocia.
 
-T'hi reconeixes? Omplir el formulari et portarà
-dos minuts:
-https://typeform.com/to/thinkoutside-unete
+T'hi reconeixes? Omplir el formulari
+et portarà dos minuts:
+https://forms.gle/KPky7uANSZC52mFUA
 
-uneixte@thinkoutside.es · 630 377 574
+Després, envia el teu CV a
+uneixte@thinkoutside.es amb el teu
+nom i cognoms.
+
+O trunca'ns al 630 377 574
 
 #Instaladors #Muntadors #Ofici
 #OfertaDeFeina #ThinkOutside
@@ -141,9 +153,13 @@ ho dius i saps com millorar-la.
 del taller i de les obres.
 
 T'hi reconeixes? Inscriu-t'hi:
-https://typeform.com/to/thinkoutside-unete
+https://forms.gle/KPky7uANSZC52mFUA
 
-uneixte@thinkoutside.es · 630 377 574
+Després, envia el teu CV a
+uneixte@thinkoutside.es amb el teu
+nom i cognoms.
+
+O truca'ns al 630 377 574
 
 #Instaladors #Muntadors #OfertaDeFeina
 #TreballaAmbNosaltres #ThinkOutside
@@ -164,7 +180,7 @@ bessona en castellà («instaladores y montadores»), es pot generar igual sobre
 
 ## 4. Checklist abans de publicar
 
-- [ ] Substituir `https://typeform.com/to/thinkoutside-unete` pel formulari real
+- [x] URL del formulari real ja aplicada: `https://forms.gle/KPky7uANSZC52mFUA`
 - [ ] Que el formulari pregunti per **instal·lació i muntatge**, no només taller
 - [ ] `python tools\check_layout.py creatives\ca-installadors` → 0 avisos
 - [ ] PNG a 1080 × 1350 oberts i revisats

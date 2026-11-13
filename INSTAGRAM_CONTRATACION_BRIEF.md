@@ -50,7 +50,7 @@ distinto del mismo mensaje.
 | Tarjeta 1 | **EFICIENCIA** — "Rinden desde el primer día, sin repetir tareas ni perder el tiempo." | **EFICIÈNCIA** — "Rendeixen des del primer dia, sense repetir tasques ni perdre temps." |
 | Tarjeta 2 | **TALENTO** — "Manos de oficio y cabeza de profesional. Resuelven, no estorban." | **TALENT** — "Mans d'ofici i criteri professional. Resolen problemes." |
 | Tarjeta 3 | **CALIDAD** — "El detalle se nota en cada corte y cada instalación. Siempre." | **QUALITAT** — "La qualitat es nota en cada tall i en cada instal·lació." |
-| Botón (Typeform) | "Aplica al puesto →" | "Inscriu-t'hi →" |
+| Botón (Formulario) | "Aplica al puesto →" | "Inscriu-t'hi →" |
 | Email | "¿PREFIERES EMAIL?" + `unete@thinkoutside.es` | "PREFEREIXES EL CORREU?" + `uneixte@thinkoutside.es` |
 | Pie | "630 377 574 · Terrassa (Barcelona)" | "630 377 574 · Terrassa (Barcelona)" |
 
@@ -71,10 +71,14 @@ profesional. Resuelven, no estorban.
 CALIDAD — El detalle se nota en cada corte y
 cada instalación. Siempre.
 
-Aplica aquí (2 min, sin PDFs):
-https://typeform.com/to/thinkoutside-unete
+Aplica aquí (2 min):
+https://forms.gle/KPky7uANSZC52mFUA
 
-O escríbenos a unete@thinkoutside.es · 630 377 574
+Después, envía tu CV a
+unete@thinkoutside.es con tu nombre
+y apellidos.
+
+O llámanos al 630 377 574
 
 #ThinkOutside #We'reHiring #Carpinteros
 #OfertaDeTrabajo #TrabajaConNosotros
@@ -96,7 +100,7 @@ Fem instal·lacions, reparacions i manteniment
 a Terrassa i rodalia.
 
 Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
-https://typeform.com/to/thinkoutside-unete
+https://forms.gle/KPky7uANSZC52mFUA
 
 O escriu-nos a uneixte@thinkoutside.es · 630 377 574
 
@@ -126,7 +130,7 @@ O escriu-nos a uneixte@thinkoutside.es · 630 377 574
 | Punto 1 | **Eficiencia real** — "Trabaja con orden: sabe qué toca, cuándo y cómo." | **Eficiència real** — "Treballa amb ordre: sap què toca, quan i com." |
 | Punto 2 | **Talento aplicado** — "Aporta criterio cuando la obra no sale derecha." | **Talent aplicat** — "Aporta criteri quan les coses no van com haurien d'anar." |
 | Punto 3 | **Calidad sin bajarse** — "El acabado es la parte que no se negocia." | **Qualitat innegociable** — "L'acabat no es negocia." |
-| Botón (Typeform) | "Aplica al puesto →" | "Inscriu-t'hi →" |
+| Botón (Formulario) | "Aplica al puesto →" | "Inscriu-t'hi →" |
 | Contacto | `unete@thinkoutside.es · 630 377 574` | `uneixte@thinkoutside.es · 630 377 574` |
 
 ### Caption ES
@@ -148,10 +152,15 @@ no sale derecha.
 Calidad sin bajarse — El acabado es la parte que
 no se negocia.
 
-Si esto te suena, el formulario tarda 2 minutos:
-https://typeform.com/to/thinkoutside-unete
+Si esto te suena, el formulario
+tarda 2 minutos:
+https://forms.gle/KPky7uANSZC52mFUA
 
-unete@thinkoutside.es · 630 377 574
+Después, envía tu CV a
+unete@thinkoutside.es con tu nombre
+y apellidos.
+
+O llámanos al 630 377 574
 
 #ThinkOutside #We'reHiring #Carpinteros
 #OfertaDeTrabajo #Oficio
@@ -176,7 +185,7 @@ Qualitat — L'acabat no es negocia.
 
 T'hi reconeixes? Omplir el formulari et portarà
 2 minuts:
-https://typeform.com/to/thinkoutside-unete
+https://forms.gle/KPky7uANSZC52mFUA
 
 uneixte@thinkoutside.es · 630 377 574
 
@@ -207,7 +216,7 @@ en el feed.
 | 2 | **Eficiencia** — "Rindes, no ocupas: haces tu parte y algo más." | **Eficiència** — "Treballes amb eficàcia i vas més enllà de la teva tasca." |
 | 3 | **Criterio** — "Cuando algo no cuadra, lo dices y sabes cómo mejorarlo." | **Criteri** — "Quan alguna cosa no quadra, ho dius i saps com millorar-la." |
 | 4 | **Ganas de crecer** — "Te apuntas a lo que toque, dentro y fuera del taller." | **Ganes de créixer** — "T'impliques en les tasques del taller i de les obres." |
-| Botón (Typeform) | "Aplica al puesto →" | "Inscriu-t'hi →" |
+| Botón (Formulario) | "Aplica al puesto →" | "Inscriu-t'hi →" |
 | Contacto | `unete@thinkoutside.es · 630 377 574` | `uneixte@thinkoutside.es · 630 377 574` |
 
 ### Caption ES
@@ -227,10 +236,15 @@ cómo mejorarlo.
 4. Ganas de crecer — Te apuntas a lo que toque, dentro
 y fuera del taller.
 
-Si te reconoces, ponte en contacto. 2 minutos:
-https://typeform.com/to/thinkoutside-unete
+Si te reconoces, ponte en contacto.
+2 minutos:
+https://forms.gle/KPky7uANSZC52mFUA
 
-unete@thinkoutside.es · 630 377 574
+Después, envía tu CV a
+unete@thinkoutside.es con tu nombre
+y apellidos.
+
+O llámanos al 630 377 574
 
 #ThinkOutside #We'reHiring #Carpinteros
 #OfertaDeTrabajo #TrabajaConNosotros
@@ -254,9 +268,13 @@ ho dius i saps com millorar-la.
 del taller i de les obres.
 
 T'hi reconeixes? Inscriu-t'hi:
-https://typeform.com/to/thinkoutside-unete
+https://forms.gle/KPky7uANSZC52mFUA
 
-uneixte@thinkoutside.es · 630 377 574
+Després, envia el teu CV a
+uneixte@thinkoutside.es amb el teu
+nom i cognoms.
+
+O truca'ns al 630 377 574
 
 #ThinkOutside #BusquemInstaladors #Fusta
 #OfertaDeFeina #TreballaAmbNosaltres
@@ -283,7 +301,7 @@ uneixte@thinkoutside.es · 630 377 574
   **historias**: el texto se recorta de forma natural.
 - **Duplicar no está permitido.** Una misma pieza, una sola publicación.
   Reutiliza el copy en stories, en el link en bio o en el post de la C1.
-- **El Typeform es el canal principal.** El email alternativo es
+- **El formulario web es el canal principal.** El email alternativo es
   `unete@thinkoutside.es` en castellano y `uneixte@thinkoutside.es` en catalán. Antes de publicar, sustituir el ID del formulario
   `thinkoutside-unete` por el real (en el SVG y en la caption), en los dos
   idiomas.

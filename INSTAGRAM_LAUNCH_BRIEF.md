@@ -352,13 +352,13 @@ y fregadero.
 ### Pieza 10 — Únete al equipo
 
 **Archivo:** `creatives/es/10-unete-equipo.svg`
-**Objetivo:** reclutar. Importante para una empresa consolidada que quiere seguir creciendo. La captación se hace vía **Typeform** (canal principal). El email `unete@thinkoutside.es` queda como vía alternativa, visible en la pieza y en la caption.
+**Objetivo:** reclutar. Importante para una empresa consolidada que quiere seguir creciendo. La captación se hace vía **formulario web** (canal principal). El email `unete@thinkoutside.es` queda como vía alternativa, visible en la pieza y en la caption.
 
 **Copy en la pieza**
 - Eyebrow: "WE'RE HIRING"
 - H1: "Buscamos carpinteros con oficio."
 - Sub: "Cuéntanos en 2 minutos — sin CV en PDF."
-- CTA principal (botón accent): "Aplica al puesto →" — enlaza al **Typeform** `https://typeform.com/to/thinkoutside-unete` (placeholder, sustituir por el ID real del formulario).
+- CTA principal (botón accent): "Aplica al puesto →" — enlaza al **formulario** `https://forms.gle/KPky7uANSZC52mFUA`.
 - Bloque email (debajo del CTA): "¿Prefieres email?" + `unete@thinkoutside.es`.
 
 **Caption**
@@ -375,10 +375,14 @@ Lo que ofrecemos:
 · Estabilidad · Proyecto a largo plazo
 · Buen ambiente de taller
 
-Aplica aquí (2 min, sin PDFs):
-https://typeform.com/to/thinkoutside-unete
+Aplica aquí (2 min):
+https://forms.gle/KPky7uANSZC52mFUA
 
-Si lo prefieres, escríbenos a unete@thinkoutside.es.
+Después, envía tu CV a
+unete@thinkoutside.es con tu nombre
+y apellidos.
+
+Si lo prefieres, llama al 630 377 574.
 
 #Hiring #Carpinteros #OfertaDeTrabajo
 #TrabajaConNosotros #ThinkOutside

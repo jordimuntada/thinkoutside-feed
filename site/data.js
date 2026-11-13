@@ -95,7 +95,7 @@ window.POSTS = [
     "alt": "Anunci de feina de Think Outside: busquem instal·ladors i muntadors amb ofici.",
     "magrada": 356,
     "comentaris": 29,
-    "caption": "Estem creixent i busquem instal·ladors i muntadors\namb ofici i actitud professional.\n\nQuè demanem:\n· Experiència en instal·lació i muntatge de fusta\n· Ganes de fer bé la feina\n· Carnet de conduir (no és imprescindible, però es valora)\n\nQuè oferim:\n· Estabilitat i un projecte a llarg termini\n· Bon ambient d'equip\n\nInscriu-t'hi en 2 minuts, sense adjuntar cap PDF:\nhttps://typeform.com/to/thinkoutside-unete\n\nSi ho prefereixes, escriu-nos a uneixte@thinkoutside.es.",
+    "caption": "Estem creixent i busquem instal·ladors i muntadors\namb ofici i actitud professional.\n\nQuè demanem:\n· Experiència en instal·lació i muntatge de fusta\n· Ganes de fer bé la feina\n· Carnet de conduir (no és imprescindible, però es valora)\n\nQuè oferim:\n· Estabilitat i un projecte a llarg termini\n· Bon ambient d'equip\n\nInscriu-t'hi en 2 minuts:\nhttps://forms.gle/KPky7uANSZC52mFUA\n\nDesprés, envia el teu CV a\nuneixte@thinkoutside.es amb el teu\nnom i cognoms.\n\nSi ho prefereixes, truca al 630 377 574.",
     "hashtags": "#Instaladors #Muntadors #OfertaDeFeina #TreballaAmbNosaltres #ThinkOutside",
     "pendent": false
   },
@@ -185,7 +185,7 @@ window.POSTS = [
     "alt": "Anunci de feina de Think Outside amb tres targetes: eficiència, talent i qualitat.",
     "magrada": 402,
     "comentaris": 26,
-    "caption": "Busquem persones que facin bé la seva feina\ni que treballin amb criteri.\n\nA Think Outside valorem tres coses:\n· Eficiència — fer la feina bé, sense repeticions\n· Talent — saber trobar solucions\n· Qualitat — tenir cura dels detalls\n\nSom una empresa d'instal·lacions de fusta fundada el 2017.\nFem instal·lacions, reparacions i manteniment\na Terrassa i rodalia.\n\nInscriu-t'hi en 2 minuts, sense adjuntar cap PDF:\nhttps://typeform.com/to/thinkoutside-unete\n\nO escriu-nos a uneixte@thinkoutside.es · 630 377 574",
+    "caption": "Busquem persones que facin bé la seva feina\ni que treballin amb criteri.\n\nA Think Outside valorem tres coses:\n· Eficiència — fer la feina bé, sense repeticions\n· Talent — saber trobar solucions\n· Qualitat — tenir cura dels detalls\n\nSom una empresa d'instal·lacions de fusta fundada el 2017.\nFem instal·lacions, reparacions i manteniment\na Terrassa i rodalia.\n\nInscriu-t'hi en 2 minuts:\nhttps://forms.gle/KPky7uANSZC52mFUA\n\nDesprés, envia el teu CV a\nuneixte@thinkoutside.es amb el teu\nnom i cognoms.\n\nO truca'ns al 630 377 574",
     "hashtags": "#Instaladors #Muntadors #OfertaDeFeina #TreballaAmbNosaltres #ThinkOutside",
     "pendent": false
   },
@@ -195,7 +195,7 @@ window.POSTS = [
     "alt": "Anunci de feina de Think Outside: «No busquem només mans. Busquem ofici.»",
     "magrada": 468,
     "comentaris": 35,
-    "caption": "No busquem només mans. Busquem ofici.\n\nPersones que entenen la feina i l'acaben bé.\nQue deixen l'obra millor de com l'han trobada.\n\nEficiència — Treballen amb ordre i saben què\ncal fer, quan i com.\n\nTalent — Aporten criteri quan les coses\nno van com haurien d'anar.\n\nQualitat — L'acabat no es negocia.\n\nT'hi reconeixes? Omplir el formulari et portarà\ndos minuts:\nhttps://typeform.com/to/thinkoutside-unete\n\nuneixte@thinkoutside.es · 630 377 574",
+    "caption": "No busquem només mans. Busquem ofici.\n\nPersones que entenen la feina i l'acaben bé.\nQue deixen l'obra millor de com l'han trobada.\n\nEficiència — Treballen amb ordre i saben què\ncal fer, quan i com.\n\nTalent — Aporten criteri quan les coses\nno van com haurien d'anar.\n\nQualitat — L'acabat no es negocia.\n\nT'hi reconeixes? Omplir el formulari\net portarà dos minuts:\nhttps://forms.gle/KPky7uANSZC52mFUA\n\nDesprés, envia el teu CV a\nuneixte@thinkoutside.es amb el teu\nnom i cognoms.\n\nO trunca'ns al 630 377 574",
     "hashtags": "#Instaladors #Muntadors #Ofici #OfertaDeFeina #ThinkOutside",
     "pendent": false
   },
@@ -205,7 +205,7 @@ window.POSTS = [
     "alt": "Anunci de feina de Think Outside amb quatre requisits: ofici, eficiència, criteri i ganes de créixer.",
     "magrada": 377,
     "comentaris": 24,
-    "caption": "Què busquem en tu?\n\n1. Ofici — Saps instal·lar i muntar elements\nde fusta.\n\n2. Eficiència — Treballes amb eficàcia i vas\nmés enllà de la teva tasca.\n\n3. Criteri — Quan alguna cosa no quadra,\nho dius i saps com millorar-la.\n\n4. Ganes de créixer — T'impliques en les tasques\ndel taller i de les obres.\n\nT'hi reconeixes? Inscriu-t'hi:\nhttps://typeform.com/to/thinkoutside-unete\n\nuneixte@thinkoutside.es · 630 377 574",
+    "caption": "Què busquem en tu?\n\n1. Ofici — Saps instal·lar i muntar elements\nde fusta.\n\n2. Eficiència — Treballes amb eficàcia i vas\nmés enllà de la teva tasca.\n\n3. Criteri — Quan alguna cosa no quadra,\nho dius i saps com millorar-la.\n\n4. Ganes de créixer — T'impliques en les tasques\ndel taller i de les obres.\n\nT'hi reconeixes? Inscriu-t'hi:\nhttps://forms.gle/KPky7uANSZC52mFUA\n\nDesprés, envia el teu CV a\nuneixte@thinkoutside.es amb el teu\nnom i cognoms.\n\nO truca'ns al 630 377 574",
     "hashtags": "#Instaladors #Muntadors #OfertaDeFeina #TreballaAmbNosaltres #ThinkOutside",
     "pendent": false
   }

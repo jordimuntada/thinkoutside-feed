@@ -16,7 +16,7 @@ excepto una, con el copy, el caption y los hashtags de cada una.
 | **Nombre visible** | `Think Outside · Carpintería de madera` |
 | **Bio ES** | `Carpintería de madera en Terrassa 📍 9 años de oficio. Instalación · Reparación · Mantenimiento. 👇` |
 | **Bio CA** | `Instal·lacions de fusta a Terrassa 📍 9 anys d'experiència. Instal·lacions · Reparacions · Manteniment. 👇` |
-| **Enlace** | Linktree / enlace propio con: WhatsApp `+34 630 377 574` · Email comercial · Typeform (candidatos) · `thinkoutside.es` |
+| **Enlace** | Linktree / enlace propio con: WhatsApp `+34 630 377 574` · Email comercial · Formulario de candidatura · `thinkoutside.es` |
 | **Teléfono en bio** | `630 377 574` (móvil, mejor para WhatsApp que el fijo) |
 | **Categoría** | `Empresa de carpintería` / `Carpintería` |
 | **Ubicación** | `Terrassa, Barcelona` en todas las publicaciones |
@@ -75,7 +75,7 @@ Instagram tiene **un idioma por publicación**, no por cuenta. Recomendación:
 ### Reglas fijas del copy
 
 - **9 años**, nunca 5 ni 10. La línea de tiempo va de **2017 a 2026**.
-- Candidatos → **Typeform** primero. Email alternativo: `unete@thinkoutside.es` en castellano y `uneixte@thinkoutside.es` en catalán.
+- Candidatos → **formulario web** primero. Email alternativo: `unete@thinkoutside.es` en castellano y `uneixte@thinkoutside.es` en catalán.
 - Clientes → `comercial@oitinstalaciones.com` y **+34 630 377 574**.
 - Saltos de línea de ~30–40 caracteres en los captions (se leen mejor en móvil).
 - 5–8 hashtags por post.
@@ -202,7 +202,7 @@ Sin pieza propia: recorta una zona del PNG del post del día en Stories.
  Stories fijas (no caducan):
 
 - *"¿Necesitas carpintería? 630 377 574"* (semáforo verde con el teléfono).
-- *"Estamos contratando carpinteros"* → link al Typeform.
+- *"Estamos contratando carpinteros"* → link al formulario de candidatura.
 - *"Guarda este post"* → re-share del post educativo del día.
 
 ---
@@ -671,8 +671,8 @@ Tens un projecte? Enllaç a la bio.
 **ES** `creatives/es/10-unete-equipo.svg` → `creatives/es/png/10-unete-equipo.png`
 **CA** `creatives/ca/10-unete-equipo.svg` → `creatives/ca/png/10-unete-equipo.png`
 
-**Objetivo:** reclutamiento. **La captación va por Typeform**; el email es el plan B.
-**Copy en la peça:** «BUSQUEM FUSTERS» · H1 «Cerquem fusters amb ofici» · sub «Explica'ns en 2 minuts, sense adjuntar cap PDF» · botó «Inscriu-t'hi →» (enllaça al Typeform) · «PREFEREIXES EL CORREU?» + `uneixte@thinkoutside.es`.
+**Objetivo:** reclutamiento. **La captación va por formulario web**; el email es el plan B.
+**Copy en la peça:** «BUSQUEM FUSTERS» · H1 «Cerquem fusters amb ofici» · sub «Explica'ns en 2 minuts, sense adjuntar cap PDF» · botó «Inscriu-t'hi →» (enllaça al formulari) · «PREFEREIXES EL CORREU?» + `uneixte@thinkoutside.es`.
 
 **Caption ES**
 ```
@@ -689,7 +689,7 @@ Lo que ofrecemos:
 · Buen ambiente de taller
 
 Aplica aquí (2 min, sin PDFs):
-https://typeform.com/to/thinkoutside-unete
+https://forms.gle/KPky7uANSZC52mFUA
 
 Si lo prefieres, escríbenos a unete@thinkoutside.es
 
@@ -711,7 +711,7 @@ Què oferim:
 · Bon ambient de taller
 
 Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
-https://typeform.com/to/thinkoutside-unete
+https://forms.gle/KPky7uANSZC52mFUA
 
 Si ho prefereixes, escriu-nos a uneixte@thinkoutside.es.
 
@@ -721,7 +721,7 @@ Si ho prefereixes, escriu-nos a uneixte@thinkoutside.es.
 
 **Hashtags:** `#Hiring #Carpinteros #OfertaDeTrabajo #TrabajaConNosotros #ThinkOutside`
 **Alt text:** «Anuncio de contratación de Think Outside: buscamos carpinteros con oficio, con botón para aplicar a través de un formulario y el email alternativo unete@thinkoutside.es.»
-**⚠️ Antes de publicar:** sustituye `https://typeform.com/to/thinkoutside-unete` por el ID real del formulario, **tanto en el SVG como en el caption**.
+**✓ URL real aplicada** en el SVG y en el caption (ES y CA): `https://forms.gle/KPky7uANSZC52mFUA`.
 
 ---
 
@@ -1166,7 +1166,7 @@ expliquéssim? Escriu-nos i en parlarem.
 **CA** `creatives/ca/C1-calidad.svg` → `creatives/ca/png/C1-calidad.png`
 
 **Objetivo:** reclutamiento. Enseña los tres valores que se piden: eficiencia, talento y calidad.
-**Copy en la peça:** «BUSQUEM FUSTERS» · H1 «Gent que sap fer les coses bé» · sub «Persones eficients, amb ofici i sense excuses» · targetes: **EFICIÈNCIA**, **TALENT** i **QUALITAT** · botó «Inscriu-t'hi →» (Typeform) · «PREFEREIXES EL CORREU?» + `uneixte@thinkoutside.es` · `630 377 574 · Terrassa (Barcelona)`.
+**Copy en la peça:** «BUSQUEM FUSTERS» · H1 «Gent que sap fer les coses bé» · sub «Persones eficients, amb ofici i sense excuses» · targetes: **EFICIÈNCIA**, **TALENT** i **QUALITAT** · botó «Inscriu-t'hi →» (formulari) · «PREFEREIXES EL CORREU?» + `uneixte@thinkoutside.es` · `630 377 574 · Terrassa (Barcelona)`.
 
 **Caption ES**
 ```
@@ -1184,10 +1184,14 @@ profesional. Resuelven, no estorban.
 CALIDAD — El detalle se nota en cada corte y
 cada instalación. Siempre.
 
-Aplica aquí (2 min, sin PDFs):
-https://typeform.com/to/thinkoutside-unete
+Aplica aquí (2 min):
+https://forms.gle/KPky7uANSZC52mFUA
 
-O escríbenos a unete@thinkoutside.es · 630 377 574
+Después, envía tu CV a
+unete@thinkoutside.es con tu nombre
+y apellidos.
+
+O llámanos al 630 377 574
 
 #ThinkOutside #We'reHiring #Carpinteros
 #OfertaDeTrabajo #TrabajaConNosotros
@@ -1210,7 +1214,7 @@ QUALITAT — L'atenció al detall es nota en cada
 tall i en cada instal·lació.
 
 Inscriu-t'hi en 2 minuts, sense adjuntar cap PDF:
-https://typeform.com/to/thinkoutside-unete
+https://forms.gle/KPky7uANSZC52mFUA
 
 O escriu-nos a uneixte@thinkoutside.es · 630 377 574.
 
@@ -1229,7 +1233,7 @@ O escriu-nos a uneixte@thinkoutside.es · 630 377 574.
 **CA** `creatives/ca/C2-oficio.svg` → `creatives/ca/png/C2-oficio.png`
 
 **Objetivo:** reclutamiento. Rechaza el perfil pasivo y define el perfil real.
-**Copy en la peça:** «BUSQUEM FUSTERS» · H1 «No busquem només mans. Busquem ofici» · sub «Persones que entenen la feina i l'acaben bé. Deixen l'obra millor de com l'han trobada» · punts: **Eficiència real**, **Talent aplicat** i **Qualitat innegociable** · botó «Inscriu-t'hi →» (Typeform) · `uneixte@thinkoutside.es · 630 377 574`.
+**Copy en la peça:** «BUSQUEM FUSTERS» · H1 «No busquem només mans. Busquem ofici» · sub «Persones que entenen la feina i l'acaben bé. Deixen l'obra millor de com l'han trobada» · punts: **Eficiència real**, **Talent aplicat** i **Qualitat innegociable** · botó «Inscriu-t'hi →» (formulari) · `uneixte@thinkoutside.es · 630 377 574`.
 
 **Caption ES**
 ```
@@ -1249,10 +1253,15 @@ no sale derecha.
 Calidad sin bajarse — El acabado es la parte que
 no se negocia.
 
-Si esto te suena, el formulario tarda 2 minutos:
-https://typeform.com/to/thinkoutside-unete
+Si esto te suena, el formulario
+tarda 2 minutos:
+https://forms.gle/KPky7uANSZC52mFUA
 
-unete@thinkoutside.es · 630 377 574
+Después, envía tu CV a
+unete@thinkoutside.es con tu nombre
+y apellidos.
+
+O llámanos al 630 377 574
 
 #ThinkOutside #We'reHiring #Carpinteros
 #OfertaDeTrabajo #Oficio
@@ -1273,11 +1282,15 @@ no van com haurien d'anar.
 
 Qualitat — L'acabat no es negocia.
 
-T'hi reconeixes? Omplir el formulari et portarà
-dos minuts:
-https://typeform.com/to/thinkoutside-unete
+T'hi reconeixes? Omplir el formulari
+et portarà dos minuts:
+https://forms.gle/KPky7uANSZC52mFUA
 
-uneixte@thinkoutside.es · 630 377 574
+Després, envia el teu CV a
+uneixte@thinkoutside.es amb el teu
+nom i cognoms.
+
+O trunca'ns al 630 377 574
 
 #BusquemInstaladors #OfertaDeFeina #Ofici
 #Fusta #ThinkOutside
@@ -1294,7 +1307,7 @@ uneixte@thinkoutside.es · 630 377 574
 **CA** `creatives/ca/C3-perfil.svg` → `creatives/ca/png/C3-perfil.png`
 
 **Objetivo:** reclutamiento. Describe el perfil buscado, punto por punto.
-**Copy en la peça:** «BUSQUEM FUSTERS» · H1 «Què busquem en tu?» · sub «Persones eficients i amb ofici, que tenen cura dels detalls» · requisits: **Ofici**, **Eficiència**, **Criteri** i **Ganes de créixer** · botó «Inscriu-t'hi →» (Typeform) · `uneixte@thinkoutside.es · 630 377 574`.
+**Copy en la peça:** «BUSQUEM FUSTERS» · H1 «Què busquem en tu?» · sub «Persones eficients i amb ofici, que tenen cura dels detalls» · requisits: **Ofici**, **Eficiència**, **Criteri** i **Ganes de créixer** · botó «Inscriu-t'hi →» (formulari) · `uneixte@thinkoutside.es · 630 377 574`.
 
 **Caption ES**
 ```
@@ -1312,10 +1325,15 @@ cómo mejorarlo.
 4. Ganas de crecer — Te apuntas a lo que toque, dentro
 y fuera del taller.
 
-Si te reconoces, ponte en contacto. 2 minutos:
-https://typeform.com/to/thinkoutside-unete
+Si te reconoces, ponte en contacto.
+2 minutos:
+https://forms.gle/KPky7uANSZC52mFUA
 
-unete@thinkoutside.es · 630 377 574
+Después, envía tu CV a
+unete@thinkoutside.es con tu nombre
+y apellidos.
+
+O llámanos al 630 377 574
 
 #ThinkOutside #We'reHiring #Carpinteros
 #OfertaDeTrabajo #TrabajaConNosotros
@@ -1338,7 +1356,7 @@ ho dius i saps com millorar-la.
 del taller i de les obres.
 
 Et reconeixes en aquest perfil? Inscriu-t'hi:
-https://typeform.com/to/thinkoutside-unete
+https://forms.gle/KPky7uANSZC52mFUA
 
 uneixte@thinkoutside.es · 630 377 574
 
@@ -1377,7 +1395,7 @@ Reglas:
 ## 5. Checklist antes de cada publicación
 
 - [ ] PNG de la pieza correcta y del idioma correcto (`creatives/<es|ca>/png/`)
-- [ ] Si es la pieza 10, la URL del Typeform es la real
+- [ ] Si es la pieza 10, el botón enlaza al formulario real
 - [ ] Caption en el idioma del post, con saltos de línea a ~30–40 caracteres
 - [ ] 5–8 hashtags, cada uno en su propia línea o separados por espacio
 - [ ] Alt-text pegado (mínimo 80 caracteres)

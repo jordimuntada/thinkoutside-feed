@@ -21,8 +21,8 @@ pregunta antes de aplicar el cambio.
   proyectos). **Nunca** para candidatos.
 - `unete@thinkoutside.es` (castellano) y `uneixte@thinkoutside.es` (catalán) son
   **solo para selección/CV**, y siempre como
-  *fallback* detrás del Typeform.
-- La captación de candidatos se hace por **Typeform**. El email es el plan B.
+  *fallback* detrás del formulario web.
+- La captación de candidatos se hace por **formulario web**. El email es el plan B.
 - Si un dato cambia, se actualiza en **los tres sitios**: `BRANDING.md` +
   briefs, el SVG de la pieza, y estos ficheros de reglas.
 

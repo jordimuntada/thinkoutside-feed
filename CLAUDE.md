@@ -22,7 +22,7 @@ calidad es **visual**: abrir el PNG y mirar que se ve bien.
 | **Teléfono de contacto** | **630 377 574** (móvil ES · formato internacional `+34 630 377 574`) |
 | Email comercial | comercial@oitinstalaciones.com |
 | Email selección / CV | unete@thinkoutside.es (ES) · uneixte@thinkoutside.es (CA) |
-| Captación de candidatos | Typeform (ver `creatives/es/10-unete-equipo.svg`) |
+| Captación de candidatos | Formulario web (ver `creatives/es/10-unete-equipo.svg`) |
 | Sede | Carrer Apol·lo 10 · 08228 Terrassa, Barcelona |
 | Experiencia | **9 años** (fundada en 2017) |
 | Mercados | Residencial, hoteles, edificios corporativos, hospitales, retail, industrial |

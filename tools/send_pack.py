@@ -124,7 +124,7 @@ def build_body(label, rel, part, desc, to_list, forwarded):
         "    servicios, manifiesto, 3 proyectos, equipo, CTA y contacto).\n"
         "  - B1 a B6: piezas educativas que no necesitan ninguna foto.\n"
         "  - C1 a C3: piezas de captacion (calidad, oficio, perfil) con\n"
-        "    formulario Typeform y el email unete@thinkoutside.es.\n\n"
+        "    formulario de candidatura y el email unete@thinkoutside.es.\n\n"
         f"{desc}\n\n"
         "Van 5 correos en total, uno por carpeta. Este es el "
         f"{part[0]} de 5.\n\n"

@@ -6,7 +6,7 @@ Material preparado para el perfil de Instagram de **Think Outside** (Outside Ins
 |---|---|
 | **Teléfono** | **630 377 574** · internacional `+34 630 377 574` |
 | Email comercial (clientes) | comercial@oitinstalaciones.com |
-| Email selección / CV | unete@thinkoutside.es (ES) · uneixte@thinkoutside.es (CA) — captación principal vía Typeform |
+| Email selección / CV | unete@thinkoutside.es (ES) · uneixte@thinkoutside.es (CA) — captación principal vía formulario web |
 | Web | thinkoutside.es |
 | Sede | Carrer Apol·lo 10 · 08228 Terrassa, Barcelona |
 
@@ -219,7 +219,7 @@ Ver **`POSTS_CONTENT_PLAN.md`**: 10 semanas de calendario con las 42 piezas
 - Revisar ortografía en cada exportación.
 - Mantener el orden de los posts tal como están diseñados (alternan fondos claros y oscuros para romper monotonía en el grid).
 - Si se sube en horario distinto al plan, ajustar `alt-text` y ubicación en cada post.
-- En la pieza `10-unete-equipo` y en las piezas `C1-calidad`, `C2-oficio` y `C3-perfil`, sustituir la URL de Typeform `https://typeform.com/to/thinkoutside-unete` por el ID real del formulario (en el SVG **y** en el caption del brief, en los dos idiomas).
+- La URL del formulario de candidatura `https://forms.gle/KPky7uANSZC52mFUA` ya está aplicada en el SVG y en el caption de la pieza `10-unete-equipo` y de las piezas `C1-calidad`, `C2-oficio` y `C3-perfil`, en los dos idiomas.
 - Teléfono en las piezas: **630 377 574** (`+34 630 377 574`). El antiguo `+34 93 012 95 73` está obsoleto.
 
 ---

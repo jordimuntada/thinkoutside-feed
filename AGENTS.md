@@ -11,7 +11,7 @@ Barcelona. No es una aplicación: no hay build, ni servidor, ni tests. El
 
 **Contacto de la empresa: 630 377 574** (`+34 630 377 574`).
 Comercial: `comercial@oitinstalaciones.com` · Selección/CV: `unete@thinkoutside.es` (ES) / `uneixte@thinkoutside.es` (CA)
-(captación vía Typeform) · Web: `thinkoutside.es` · 9 años de experiencia
+(captació via formulari) · Web: `thinkoutside.es` · 9 años de experiencia
 (fundada en 2017).
 
 ## Workflow obligatorio
@@ -81,7 +81,7 @@ Si el destinatario no tiene Raleway instalada, entrega `ai/outlined/` o
 - **Español peninsular** en todo el copy.
 - **9 años** de experiencia, no 5, no 10, no "más de 5". La línea de tiempo de
   la pieza 02 va de **2017 a 2026**.
-- La captación de candidatos va por **Typeform**; el email es solo el
+- La captación de candidatos va por **formulario web**; el email es solo el
   fallback (`unete@thinkoutside.es` en ES, `uneixte@thinkoutside.es` en CA).
 - El email comercial (`comercial@oitinstalaciones.com`) es para clientes
   (presupuestos, proyectos), **no** para candidatos.
